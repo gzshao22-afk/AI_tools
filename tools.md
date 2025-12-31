@@ -3,7 +3,7 @@
 - 
 
 ## numpy
-- reshape(-1, 32) ''' -1 means unknown number of rows, 32 means columns
+- reshape(-1, 32) ''' -1 means unknown number of rows, 32 means columns '''
 - numpy view, make another linked copy of the buffer
 
 int convert between decimal, binary and hex
