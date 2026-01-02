@@ -6,7 +6,7 @@
 
     > 
     
-    (https://scikit-learn.org/stable/modules/grid_search.html#composite-grid-search)
+    [here](https://scikit-learn.org/stable/modules/grid_search.html#composite-grid-search)
 
     
     > Sample pipeline for text feature extraction and evaluation \
