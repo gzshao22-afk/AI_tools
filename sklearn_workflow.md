@@ -31,6 +31,12 @@ for train, test in kfold.split(data):
 	print('train: %s, test: %s' % (data[train], data[test]))
 ```
 
+```
+train: [0.1 0.4 0.5 0.6], test: [0.2 0.3]
+train: [0.2 0.3 0.4 0.6], test: [0.1 0.5]
+train: [0.1 0.2 0.3 0.5], test: [0.4 0.6]
+```
+
 - Estimator: fitting and predicting
 - Pipeline: Chaining preprocessor and estimator
 -- Pipeline.fit
