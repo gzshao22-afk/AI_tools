@@ -14,5 +14,7 @@ model_selection:
 
 - Estimator: fitting and predicting
 - Pipeline: Chaining preprocessor and estimator
+-- Pipeline.fit
+-- RandimizedSearchCV(pipeline, n_iter = xx, ...)
 - Model evaluation
 - Automatic parameter searches
