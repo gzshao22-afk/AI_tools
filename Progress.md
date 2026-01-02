@@ -4,7 +4,6 @@
   <details open>
   <summary> Exhaustive Grid Search </summary>
 
-    > 
     
     [here](https://scikit-learn.org/stable/modules/grid_search.html#composite-grid-search)
 
@@ -15,4 +14,4 @@
 
 </details>
 
-[here](https://scikit-learn.org/stable/modules/grid_search.html#composite-grid-search)
+https://scikit-learn.org/stable/modules/grid_search.html#composite-grid-search
