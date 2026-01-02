@@ -1,4 +1,4 @@
-**Scikit-learn tutorial**
+# Scikit-learn tutorial
 
   <details open>
   <summary> Exhaustive Grid Search </summary>
