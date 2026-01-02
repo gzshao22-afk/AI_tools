@@ -1,4 +1,4 @@
-<details>
+<details open>
 <summary>Scikit-learn tutorial</summary>
 
 *   3.2.1 Exhaustive Grid Search
