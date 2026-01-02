@@ -43,6 +43,9 @@ train: [0.2 0.3 0.4 0.6], test: [0.1 0.5]
 train: [0.1 0.2 0.3 0.5], test: [0.4 0.6]
 ```
 
+## Nested vs. Non-Nested Cross-Validation
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html#sphx-glr-auto-examples-model-selection-plot-nested-cross-validation-iris-py
+
 - Estimator: fitting and predicting
 - Pipeline: Chaining preprocessor and estimator
 -- Pipeline.fit
