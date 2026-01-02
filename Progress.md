@@ -1,5 +1,5 @@
 <details open>
-<summary> __Scikit-learn tutorial__</summary>
+<summary> **Scikit-learn tutorial**</summary>
 
   <details open>
   <summary> Exhaustive Grid Search </summary>
