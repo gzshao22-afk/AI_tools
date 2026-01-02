@@ -8,6 +8,9 @@
     https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_text_feature_extraction.html#sphx-glr-auto-examples-model-selection-plot-grid-search-text-feature-extraction-py <br>
   </details>
 
-</details>
 
-https://scikit-learn.org/stable/modules/grid_search.html#composite-grid-search
+
+
+
+
+</details>
