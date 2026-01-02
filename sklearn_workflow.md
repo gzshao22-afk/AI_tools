@@ -12,9 +12,9 @@ made with https://excalidraw.com   <br>
 
 model_selection: cross_validation, KFold,
 ```kfold = KFold(3, True, 1)```
->split data into 3 parts /
+>split data into 3 parts \
 >True for shuffling the data \
->1 for pseudorandom number genertor
+>1 for pseudorandom number genertor \
 https://machinelearningmastery.com/k-fold-cross-validation/
 
 
