@@ -17,6 +17,12 @@ model_selection: cross_validation, KFold,
 >1 for pseudorandom number genertor \
 https://machinelearningmastery.com/k-fold-cross-validation/
 
+
+>! KFold can be
+> - Stratified: ensuring that each fold has the same proportion of observations with a given categorical value
+> - Repeated: the data sample is shuffled prior to each repetition. The split of data is different each time.
+> - Nested: This is where k-fold cross-validation is performed within each fold of cross-validation, often to perform hyperparameter tuning during model evaluation. This is called nested cross-validation or double cross-validation.
+
 ## Example
 ``` python
 # scikit-learn k-fold cross-validation
