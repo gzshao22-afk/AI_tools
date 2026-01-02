@@ -18,7 +18,7 @@ model_selection: cross_validation, KFold,
 https://machinelearningmastery.com/k-fold-cross-validation/
 
 ## Example
-```
+``` python
 # scikit-learn k-fold cross-validation
 from numpy import array
 from sklearn.model_selection import KFold
