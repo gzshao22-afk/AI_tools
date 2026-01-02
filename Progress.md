@@ -1,5 +1,4 @@
-<details open>
-<summary> **Scikit-learn tutorial**</summary>
+**Scikit-learn tutorial**
 
   <details open>
   <summary> Exhaustive Grid Search </summary>
@@ -9,8 +8,3 @@
   </details>
 
 
-
-
-
-
-</details>
