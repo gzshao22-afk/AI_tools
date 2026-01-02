@@ -1,7 +1,7 @@
 <details open>
 <summary>Scikit-learn tutorial</summary>
 
-  <details>
+  <details open>
   <summary> Exhaustive Grid Search </summary>
 
     > https://scikit-learn.org/stable/modules/grid_search.html#composite-grid-search \
