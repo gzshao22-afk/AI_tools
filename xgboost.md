@@ -10,3 +10,5 @@ https://en.wikipedia.org/wiki/Hessian_matrix
 
 one hot encode
 <img width="849" height="365" alt="image" src="https://github.com/user-attachments/assets/f6fab758-4f8c-44c5-898e-5eda06280753" />
+
+https://www.kaggle.com/code/alexisbcook/categorical-variables
