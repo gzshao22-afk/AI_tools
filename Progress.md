@@ -7,4 +7,8 @@
     https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_text_feature_extraction.html#sphx-glr-auto-examples-model-selection-plot-grid-search-text-feature-extraction-py <br>
   </details>
 
+  <details open>
+  <summary> Jacobian matrix for robotics </summary>
+    https://automaticaddison.com/the-ultimate-guide-to-jacobian-matrices-for-robotics/#:~:text=References-,Real%2DWorld%20Applications,%2C%20and%20yaw%20%CF%89z). <br>
+  </details
 
