@@ -48,5 +48,6 @@ plt.show()
 ## Follow-up question:
 How to automatically find the optimal hyper-parameters? In this case, it will be n_components
 
+#grid_search #BO_optimize
 
 
