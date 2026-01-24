@@ -50,4 +50,42 @@ How to automatically find the optimal hyper-parameters? In this case, it will be
 
 #grid_search #BO_optimize
 
+Example code
+```python
+from sklearn import datasets
+from sklearn.svm import SVC
+from sklearn.model_selection import GridSearchCV, train_test_split
+import numpy as np
 
+# Load data and split into training and testing sets
+iris = datasets.load_iris()
+X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.5, random_state=0)
+
+# Define the parameter grid to search
+param_grid = [
+    {'kernel': ['rbf'], 'C': [1, 10, 100, 1000], 'gamma': [1e-3, 1e-4]},
+    {'kernel': ['linear'], 'C': [1, 10, 100, 1000]}
+]
+# This defines two separate grids to explore.
+
+# Create a base model
+svc = SVC()
+
+# Create the GridSearchCV object
+grid_search = GridSearchCV(estimator=svc, param_grid=param_grid, cv=5, scoring='accuracy')
+
+# Fit the GridSearchCV object
+grid_search.fit(X_train, y_train)
+
+# View the results
+print("Best parameters found:", grid_search.best_params_)
+print("Best cross-validation score:", grid_search.best_score_)
+
+# Evaluate the best model on the held-out test data
+# GridSearchCV automatically refits the best model by default (refit=True)
+best_model = grid_search.best_estimator_
+test_score = best_model.score(X_test, y_test)
+print("Test set score of the best model:", test_score)
+```
+
+What about #pipeline ?
