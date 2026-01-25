@@ -88,4 +88,4 @@ test_score = best_model.score(X_test, y_test)
 print("Test set score of the best model:", test_score)
 ```
 
-What about #pipeline ?
+What about #pipeline and  #BO_optimize ?
