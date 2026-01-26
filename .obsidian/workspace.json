@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "A few fundamental matrix forms"
             }
+          },
+          {
+            "id": "51c2ec7b9be8bd2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vandermonde matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vandermonde matrix"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A few fundamental matrix forms.md",
+                "file": "Vandermonde matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A few fundamental matrix forms"
+              "title": "Backlinks for Vandermonde matrix"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A few fundamental matrix forms.md",
+                "file": "Vandermonde matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A few fundamental matrix forms"
+              "title": "Outgoing links from Vandermonde matrix"
             }
           },
           {
@@ -185,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A few fundamental matrix forms.md",
+                "file": "Vandermonde matrix.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A few fundamental matrix forms"
+              "title": "Outline of Vandermonde matrix"
             }
           }
         ]
@@ -213,11 +227,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "549b2c5a02f8befe",
+  "active": "51c2ec7b9be8bd2b",
   "lastOpenFiles": [
+    "Pasted image 20260125160641.png",
+    "A few fundamental matrix forms.md",
+    "Vandermonde matrix.md",
     "Pasted image 20260125154913.png",
     "xgboost.md",
-    "A few fundamental matrix forms.md",
     "NIR with Partial Least Squares for Moisture Quantification.md",
     "gaussian_process.md",
     "Cayley-Hamilton Theorem.md",
