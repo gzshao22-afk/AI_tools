@@ -1,2 +1,8 @@
 Vandermonde determinant
-![[Pasted image 20260125160641.png]]
+![500](./assets/Vandermonde%20matrix/file-20260125161102912.png)
+
+![500](./assets/Vandermonde%20matrix/file-20260125161130616.png)
+
+![500](./assets/Vandermonde%20matrix/file-20260125161200184.png)
+
+![500](./assets/Vandermonde%20matrix/file-20260125161229356.png)
