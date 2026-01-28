@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partial Least Square.md",
+                "file": "NIR with Partial Least Squares for Moisture Quantification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partial Least Square"
+              "title": "NIR with Partial Least Squares for Moisture Quantification"
             }
           }
         ],
@@ -215,19 +215,20 @@
   },
   "active": "95a73e45b43ad5c7",
   "lastOpenFiles": [
+    "Matrix fundamentals.md",
+    "LLM course.md",
+    "gaussian_process.md",
+    "Cayley-Hamilton Theorem.md",
     "Bias-variance tradeoff.md",
     "Partial Least Square.md",
     "xgboost.md",
     "Vandermonde matrix.md",
     "NIR with Partial Least Squares for Moisture Quantification.md",
-    "LLM course.md",
     "Randomized_SVD.md",
     "sklearn_workflow.md",
     "Pasted image 20260125160641.png",
-    "Matrix fundamentals.md",
     "Pasted image 20260125154913.png",
     "assets/Matrix fundamentals",
-    "Cayley-Hamilton Theorem.md",
     "assets/Vandermonde matrix/file-20260125161229356.png",
     "assets/Vandermonde matrix/file-20260125161200184.png",
     "assets/Vandermonde matrix/file-20260125161130616.png",
@@ -236,7 +237,6 @@
     "assets/Matrix fundamentals/file-20260125215311730.png",
     "assets/A few fundamental matrix forms",
     "assets",
-    "gaussian_process.md",
     "tools.md",
     "Progress.md"
   ]
