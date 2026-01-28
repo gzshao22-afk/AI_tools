@@ -1,0 +1,3 @@
+When is a biased estimator preferable to unbiased one?
+https://stats.stackexchange.com/questions/207760/when-is-a-biased-estimator-preferable-to-unbiased-one
+
