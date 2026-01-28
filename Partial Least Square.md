@@ -64,3 +64,17 @@ $$Y_{new} = Y - tc^T$$
 
 ___
 ### Phase 4: 
+
+Once you have extracted $k$ components (determined by cross-validation):
+
+### 7. Construct the Final Regression
+
+The final model looks like a standard regression, but it's built on the stable "Scores" rather than the shaky original features.
+
+$$\hat{Y} = T C^T$$
+
+### 8. Convert back to Original Units
+
+Because we scaled and centered at the start, the model does a final "un-scaling" so you can input raw data and get a real prediction (e.g., actual "Yield" in kg).
+
+
