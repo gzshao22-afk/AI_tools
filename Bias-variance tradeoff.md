@@ -70,3 +70,12 @@ ___
 | **Lasso**  | $L1$        | **Yes**                | Moderate | Low          | Sparse data (few important features).  |
 | **PLS**    | Latent      | **Yes** (Combined)     | Moderate | Low          | Wide data ($p > n$) or Spectroscopy.   |
 |            |             |                        |          |              |                                        |
+
+___
+## 7. PCR vs. PLS: The Critical Difference
+
+While both methods compress data, the way they choose their "directions" is different:
+
+- **PCR (Unsupervised):** It finds directions that explain the most variance in $X$. It doesn't care about $y$ until the very last step. If the "loudest" part of your data is just noise, PCR might accidentally focus on that noise.
+    
+- **PLS (Supervised):** It finds directions that explain the variance in $X$ **and** correlate with $y$. It is more "goal-oriented."
