@@ -1,7 +1,7 @@
 1. The Original Matrix is 
-	$\begin{pmatrix}3 & 2 & 2 \\ 2 & 3 & -2 \end{pmatrix}$
+	$\begin{bmatrix}3 & 2 & 2 \\ 2 & 3 & -2 \end{bmatrix}$
 
-2. $\lambda$
+2. $\ A*A^T\ $
 3. 
    
 ```
