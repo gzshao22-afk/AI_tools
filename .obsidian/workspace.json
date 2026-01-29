@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singular Value Decomposition with An Example.md",
+                "file": "sklearn_workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Singular Value Decomposition with An Example"
+              "title": "sklearn_workflow"
             }
           }
         ]
@@ -187,27 +187,28 @@
   },
   "active": "6d0fb26bea09b63d",
   "lastOpenFiles": [
+    "Singular Value Decomposition with An Example.md",
     "Untitled.md",
+    "assets/Untitled/file-20260129110238591.png",
+    "xgboost.md",
+    "Bias-variance tradeoff.md",
+    "Bias-variance tradeoff from StackExchange.md",
+    "tools.md",
     "assets/Untitled/file-20260129110141983.png",
     "assets/Untitled/file-20260129110123650.png",
     "assets/Untitled/file-20260129110052479.png",
     "assets/Untitled",
-    "Singular Value Decomposition with An Example.md",
     "assets/Singular Value Decomposition with An Example/file-20260129110037531.png",
     "assets/Singular Value Decomposition with An Example/file-20260129105958476.png",
     "assets/Singular Value Decomposition with An Example/file-20260129105740244.png",
     "assets/Singular Value Decomposition with An Example/file-20260129105711486.png",
     "assets/Singular Value Decomposition with An Example/file-20260129105604053.png",
     "assets/Singular Value Decomposition with An Example/file-20260129105458613.png",
-    "assets/Singular Value Decomposition with An Example/file-20260129105433739.png",
     "assets/Singular Value Decomposition with An Example",
     "sklearn_workflow.md",
     "assets/sklearn_workflow",
-    "xgboost.md",
-    "Bias-variance tradeoff.md",
     "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md",
     "Excalidraw",
-    "Bias-variance tradeoff from StackExchange.md",
     "Vandermonde matrix.md",
     "Partial Least Square.md",
     "NIR with Partial Least Squares for Moisture Quantification.md",
@@ -220,7 +221,6 @@
     "assets/Vandermonde matrix",
     "assets/A few fundamental matrix forms",
     "assets",
-    "tools.md",
     "Progress.md"
   ]
 }
