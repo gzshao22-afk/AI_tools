@@ -60,3 +60,8 @@ https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_
 Grid search is used to find the best parameters
   ![500](./assets/sklearn_workflow/file-20260128191112792.png)
 https://scikit-learn.org/stable/modules/cross_validation.html
+
+
+
+K-Fold cross validation
+![500](./assets/sklearn_workflow/file-20260128191603423.png)
