@@ -65,3 +65,4 @@ https://scikit-learn.org/stable/modules/cross_validation.html
 
 K-Fold cross validation
 ![500](./assets/sklearn_workflow/file-20260128191603423.png)
+
