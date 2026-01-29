@@ -66,3 +66,25 @@ https://scikit-learn.org/stable/modules/cross_validation.html
 K-Fold cross validation
 ![500](./assets/sklearn_workflow/file-20260128191603423.png)
 
+Grid search is designed to work with K fold:
+```python
+from sklearn.model_selection import GridSearchCV, KFold
+from sklearn.ensemble import RandomForestClassifier
+# ... (assume X, y, and param_grid are defined) ...
+
+# Configure the k-fold cross-validation procedure
+kfold = KFold(n_splits=10, shuffle=True, random_state=42)
+
+# Define the grid search
+grid_search = GridSearchCV(
+    estimator=RandomForestClassifier(random_state=1),
+    param_grid=param_grid,
+    scoring='accuracy',
+    cv=kfold, # Pass the KFold object
+    n_jobs=-1
+)
+
+# Execute the search on your training data (e.g., X_train, y_train)
+grid_search.fit(X_train, y_train)
+```
+
