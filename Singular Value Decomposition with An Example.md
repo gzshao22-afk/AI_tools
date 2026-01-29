@@ -20,3 +20,10 @@ $\lambda_3=0$
 ![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129073240509.png)
 
 
+![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129103109307.png)
+![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129103145595.png)
+
+![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129103213326.png)
+
+![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129103242979.png)
+
