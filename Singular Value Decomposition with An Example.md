@@ -38,3 +38,50 @@ $\lambda_3=0$
 
 ![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105711486.png)
 ![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105740244.png)
+
+
+### sklearn PCR pipeline with grid-search
+```python
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.datasets import make_regression
+
+# 1. Create a sample dataset
+X, y = make_regression(n_samples=100, n_features=20, noise=0.1)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+# 2. Define the PCR Pipeline
+# n_components can be an integer or a float (percentage of variance)
+pcr_pipeline = Pipeline([
+    ('scaler', StandardScaler()),
+    ('pca', PCA(n_components=5)), 
+    ('regressor', LinearRegression())
+])
+
+# 3. Fit the pipeline
+pcr_pipeline.fit(X_train, y_train)
+
+# 4. Predict and Evaluate
+score = pcr_pipeline.score(X_test, y_test)
+print(f"R^2 Score: {score}")
+
+```
+
+```python
+from sklearn.model_selection import GridSearchCV
+
+# Define the grid of values to search
+param_grid = {
+    'pca__n_components': [1, 5, 10, 15, 20]
+}
+
+# Run the grid search
+grid = GridSearchCV(pcr_pipeline, param_grid, cv=5)
+grid.fit(X_train, y_train)
+
+print(f"Best n_components: {grid.best_params_['pca__n_components']}")
+
+```

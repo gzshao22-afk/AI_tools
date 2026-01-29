@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Randomized_SVD.md",
+                "file": "Singular Value Decomposition with An Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Randomized_SVD"
+              "title": "Singular Value Decomposition with An Example"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "6d0fb26bea09b63d",
   "lastOpenFiles": [
+    "Randomized_SVD.md",
     "sklearn_workflow.md",
     "Singular Value Decomposition with An Example.md",
     "Untitled.md",
@@ -216,7 +217,6 @@
     "LLM course.md",
     "gaussian_process.md",
     "Cayley-Hamilton Theorem.md",
-    "Randomized_SVD.md",
     "assets/Matrix fundamentals",
     "assets/Vandermonde matrix",
     "assets/A few fundamental matrix forms",
