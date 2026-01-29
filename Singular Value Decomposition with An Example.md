@@ -19,4 +19,4 @@ $\lambda_3=0$
 
 ![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129073240509.png)
 
-.
+
