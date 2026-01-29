@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Singular Value Decomposition with An Example"
             }
+          },
+          {
+            "id": "0cd60f5754b84d3f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-29 15.46.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-29 15.46.34.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,11 +198,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6d0fb26bea09b63d",
+  "active": "0cd60f5754b84d3f",
   "lastOpenFiles": [
+    "Singular Value Decomposition with An Example.md",
+    "Excalidraw/Drawing 2026-01-29 15.46.34.excalidraw.md",
     "Randomized_SVD.md",
     "sklearn_workflow.md",
-    "Singular Value Decomposition with An Example.md",
     "Untitled.md",
     "assets/Untitled/file-20260129110238591.png",
     "xgboost.md",
