@@ -13,3 +13,10 @@
 6. We use the eigenvalues found previously found eigenvalues  $\lambda_1=25$ $\lambda_2=9$ and $\lambda_3=0$
 $\lambda_3=0$
 	this gives $\begin{bmatrix}1/\sqrt{2} & 1/3\sqrt{2} & -2/3 \\1/\sqrt{2} & -1/3\sqrt{2} & 2/3 \\0 & 4/3\sqrt{2} & 1/3 \end{bmatrix}$
+
+
+7. U and V have shared non-zero eigenvalues because:
+
+![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129073240509.png)
+
+.
