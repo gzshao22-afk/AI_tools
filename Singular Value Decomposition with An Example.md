@@ -85,3 +85,4 @@ grid.fit(X_train, y_train)
 print(f"Best n_components: {grid.best_params_['pca__n_components']}")
 
 ```
+![300](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129155215386.png)

@@ -25,12 +25,14 @@
             "id": "0cd60f5754b84d3f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-29 15.46.34.excalidraw.md"
+                "file": "Singular Value Decomposition with An Example.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-29 15.46.34.excalidraw"
+              "icon": "lucide-file",
+              "title": "Singular Value Decomposition with An Example"
             }
           }
         ],
@@ -200,8 +202,10 @@
   },
   "active": "0cd60f5754b84d3f",
   "lastOpenFiles": [
-    "Singular Value Decomposition with An Example.md",
+    "assets/Singular Value Decomposition with An Example/file-20260129155215386.png",
     "Excalidraw/Drawing 2026-01-29 15.46.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md",
+    "Singular Value Decomposition with An Example.md",
     "Randomized_SVD.md",
     "sklearn_workflow.md",
     "Untitled.md",
@@ -222,7 +226,6 @@
     "assets/Singular Value Decomposition with An Example/file-20260129105458613.png",
     "assets/Singular Value Decomposition with An Example",
     "assets/sklearn_workflow",
-    "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md",
     "Excalidraw",
     "Vandermonde matrix.md",
     "Partial Least Square.md",
