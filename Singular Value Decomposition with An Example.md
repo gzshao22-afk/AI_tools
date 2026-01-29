@@ -36,3 +36,5 @@ $\lambda_3=0$
 ![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105458613.png)
 ![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105604053.png)
 
+![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105711486.png)
+![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105740244.png)
