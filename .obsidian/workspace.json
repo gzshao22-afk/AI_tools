@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d0fb26bea09b63d",
+            "id": "10ff5e045b63ffa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singular Value Decomposition with An Example.md",
+                "file": "Manifold reduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Singular Value Decomposition with An Example"
-            }
-          },
-          {
-            "id": "0cd60f5754b84d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xgboost.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "xgboost"
-            }
-          },
-          {
-            "id": "8fad371b67fec040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sklearn--Relationship between Different Modules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sklearn--Relationship between Different Modules"
+              "title": "Manifold reduction"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,12 +185,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8fad371b67fec040",
+  "active": "10ff5e045b63ffa6",
   "lastOpenFiles": [
+    "Sklearn--Relationship between Different Modules.md",
+    "xgboost.md",
+    "Singular Value Decomposition with An Example.md",
+    "Manifold reduction.md",
     "assets/Sklearn--Relationship between Different Modules",
     "assets/Relationship",
-    "xgboost.md",
-    "Sklearn--Relationship between Different Modules.md",
     "gaussian_process.md",
     "LLM course.md",
     "Matrix fundamentals.md",
@@ -227,7 +200,6 @@
     "Partial Least Square.md",
     "Progress.md",
     "Randomized_SVD.md",
-    "Singular Value Decomposition with An Example.md",
     "sklearn_workflow.md",
     "tools.md",
     "Vandermonde matrix.md",
@@ -253,7 +225,6 @@
     "Cayley-Hamilton Theorem.md",
     "assets/Matrix fundamentals",
     "assets/Vandermonde matrix",
-    "assets/A few fundamental matrix forms",
-    "assets"
+    "assets/A few fundamental matrix forms"
   ]
 }
