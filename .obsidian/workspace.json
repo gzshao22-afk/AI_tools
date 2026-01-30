@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singular Value Decomposition with An Example.md",
+                "file": "Progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Singular Value Decomposition with An Example"
+              "title": "Progress"
             }
           }
         ],
@@ -202,18 +202,22 @@
   },
   "active": "0cd60f5754b84d3f",
   "lastOpenFiles": [
+    "Randomized_SVD.md",
+    "Singular Value Decomposition with An Example.md",
+    "sklearn_workflow.md",
+    "tools.md",
+    "Vandermonde matrix.md",
+    "xgboost.md",
+    "assets/xgboost/file-20260129182056768.png",
+    "assets/xgboost/file-20260129182013151.png",
+    "assets/xgboost",
     "assets/Singular Value Decomposition with An Example/file-20260129155215386.png",
     "Excalidraw/Drawing 2026-01-29 15.46.34.excalidraw.md",
     "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md",
-    "Singular Value Decomposition with An Example.md",
-    "Randomized_SVD.md",
-    "sklearn_workflow.md",
     "Untitled.md",
     "assets/Untitled/file-20260129110238591.png",
-    "xgboost.md",
     "Bias-variance tradeoff.md",
     "Bias-variance tradeoff from StackExchange.md",
-    "tools.md",
     "assets/Untitled/file-20260129110141983.png",
     "assets/Untitled/file-20260129110123650.png",
     "assets/Untitled/file-20260129110052479.png",
@@ -221,13 +225,9 @@
     "assets/Singular Value Decomposition with An Example/file-20260129110037531.png",
     "assets/Singular Value Decomposition with An Example/file-20260129105958476.png",
     "assets/Singular Value Decomposition with An Example/file-20260129105740244.png",
-    "assets/Singular Value Decomposition with An Example/file-20260129105711486.png",
-    "assets/Singular Value Decomposition with An Example/file-20260129105604053.png",
-    "assets/Singular Value Decomposition with An Example/file-20260129105458613.png",
     "assets/Singular Value Decomposition with An Example",
     "assets/sklearn_workflow",
     "Excalidraw",
-    "Vandermonde matrix.md",
     "Partial Least Square.md",
     "NIR with Partial Least Squares for Moisture Quantification.md",
     "Matrix fundamentals.md",
