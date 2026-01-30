@@ -9,3 +9,7 @@ The standard workflow for high-dimensional visualization is:
 
 ### PCA before linear regression is PCR
 
+### UMAP is the preferrable alternative to t-SNE 
+
+
+### What about MDS?
