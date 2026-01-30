@@ -86,3 +86,14 @@ print(f"Best n_components: {grid.best_params_['pca__n_components']}")
 
 ```
 ![300](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129155215386.png)
+
+
+For Grid Search, need to use specific names for the parameters to be optimized. The names for a model can be find from ```get_params()```method on the model instance.
+```python
+from sklearn.ensemble import RandomForestClassifier
+model = RandomForestClassifier()
+
+# This returns a dictionary of all valid parameter names for this model
+print(model.get_params().keys())
+
+```
