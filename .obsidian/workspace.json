@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manifold reduction.md",
+                "file": "Singular Value Decomposition with An Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manifold reduction"
+              "title": "Singular Value Decomposition with An Example"
             }
           }
         ]
@@ -186,12 +186,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6bcd6a476fa31b92",
+  "active": "10ff5e045b63ffa6",
   "lastOpenFiles": [
+    "Manifold reduction.md",
     "Sklearn--Relationship between Different Modules.md",
     "xgboost.md",
     "Singular Value Decomposition with An Example.md",
-    "Manifold reduction.md",
     "assets/Sklearn--Relationship between Different Modules",
     "assets/Relationship",
     "gaussian_process.md",
