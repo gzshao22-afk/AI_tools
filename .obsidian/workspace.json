@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix -- Jordan Canonical Form.md",
+                "file": "Matrix -- Vandermonde matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix -- Jordan Canonical Form"
+              "title": "Matrix -- Vandermonde matrix"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vandermonde matrix.md",
+                "file": "Matrix -- Vandermonde matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vandermonde matrix"
+              "title": "Backlinks for Matrix -- Vandermonde matrix"
             }
           },
           {
@@ -236,12 +236,12 @@
               "title": "Outline of Vandermonde matrix"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,6 +259,9 @@
   "active": "a1109d07fb702f86",
   "lastOpenFiles": [
     "Matrix -- Moore-Penrose Psudoinverse.md",
+    "Matrix -- Jordan Canonical Form.md",
+    "Matrix -- Derivative of matrix.md",
+    "Matrix -- Cayley-Hamilton Theorem.md",
     "Matrix -- Sturm Liouville equation.md",
     "Matrix -- Vandermonde matrix.md",
     "assets/Matrix -- Vandermonde matrix",
@@ -278,9 +281,6 @@
     "gaussian_process.md",
     "Regression -- Bias-variance tradeoff from StackExchange.md",
     "Regression -- Bias-variance tradeoff.md",
-    "Matrix -- Cayley-Hamilton Theorem.md",
-    "Matrix -- Jordan Canonical Form.md",
-    "Matrix -- Derivative of matrix.md",
     "Manifold reduction.md",
     "xgboost.md",
     "assets/Sklearn--Relationship between Different Modules",
