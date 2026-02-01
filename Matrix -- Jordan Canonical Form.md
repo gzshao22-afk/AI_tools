@@ -32,11 +32,11 @@ The zero blocks stay zero forever because there’s **no cross-interaction**.
 
 ## Step 4: Plug into the exponential series
 
-$e^{At} = \sum_{n=0}^{\infty} \frac{A^n t^n}{n!} = \sum_{n=0}^{\infty} \frac{1}{n!} \begin{bmatrix} B^n t^n & 0 \\ 0 & C^n t^n \end{bmatrix}$
+$e^{At} = \sum\limits_{n=0}^{\infty} \frac{A^n t^n}{n!} = \sum\limits_{n=0}^{\infty} \frac{1}{n!} \begin{bmatrix} B^n t^n & 0 \\ 0 & C^n t^n \end{bmatrix}$
 
 Add term by term:
 
-eAt=[∑n=0∞Bntnn!00∑n=0∞Cntnn!]e^{At}= \begin{bmatrix} \sum\limits_{n=0}^\infty \frac{B^n t^n}{n!} & 0 \\ 0 & \sum\limits_{n=0}^\infty \frac{C^n t^n}{n!} \end{bmatrix}eAt=​n=0∑∞​n!Bntn​0​0n=0∑∞​n!Cntn​​​
+$e^{At}= \begin{bmatrix} \sum\limits_{n=0}^\infty \frac{B^n t^n}{n!} & 0 \\ 0 & \sum\limits_{n=0}^\infty \frac{C^n t^n}{n!} \end{bmatrix}$
 
 But those sums are just exponentials!
 
