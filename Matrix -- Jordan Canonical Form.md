@@ -113,7 +113,7 @@ $(A - \lambda I)v = 0$
 
 we also have vectors that satisfy:
 
-(A−λI)v2=v1(A−λI)v3=v2(A - \lambda I)v_2 = v_1 \\ (A - \lambda I)v_3 = v_2(A−λI)v2​=v1​(A−λI)v3​=v2​
+$(A - \lambda I)v_2 = v_1 \n\ (A - \lambda I)v_3 = v_2$
 
 This forms a **Jordan chain**:
 
