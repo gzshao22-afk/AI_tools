@@ -25,4 +25,23 @@ $$y_p(x)=\sum_{i=1}^{n}u_i(x)y_i(x)$$
 
 The derivatives of these functions, $u_i^{'}$, are found by solving the following matrix equation:
 
-$$\begin{bmatrix} y_1 & y_2 & \cdots & y_n\\ y_1^{'} & y_2^{'} & \cdots & y_n^{'}\\ \ldots & \ldots & \ldots \end{bmatrix}$$
+$$\begin{bmatrix}
+y_1 & y_2 & \cdots & y_n\\ 
+y_1^{'} & y_2^{'} & \cdots & y_n^{'}\\ \vdots & \vdots & \ddots & \vdots \\ y_1^{n-1} & y_2^{n-1} & \cdots & y_n^{n-1}
+\end{bmatrix}
+\begin{bmatrix} 
+u_1^{'} \\ u_1^{2} \\ \vdots\\u_1^{n-1} \end{bmatrix}
+= 
+\begin{bmatrix}
+0 \\ 0 \\ \vdots \\ g(x)
+\end{bmatrix}
+$$
+
+![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152315864.png)
+
+![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152328928.png)
+
+![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152345556.png)
+
+![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152402959.png)
+
