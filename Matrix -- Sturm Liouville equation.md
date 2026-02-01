@@ -45,3 +45,4 @@ $$
 
 ![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152402959.png)
 
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152520952.png)
