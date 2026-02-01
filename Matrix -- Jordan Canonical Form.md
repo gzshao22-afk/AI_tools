@@ -133,4 +133,44 @@ D is the Jordan Normal Form
 
 >Prove that:
 >$P^{-1}APv_2=Jv_2=\lambda v_2+v_1$
->
+
+
+### 1. The Relationship Between $P$ and its Vectors
+
+The matrix $P$ is constructed by placing our basis vectors as columns:
+
+$$P = \begin{bmatrix} | & | \\ v_1 & v_2 \\ | & | \end{bmatrix}$$
+
+Because of how matrix multiplication works, multiplying $P$ by a standard basis vector $e_n$ (a vector with a 1 in the $n$-th slot and 0 elsewhere) "plucks" the $n$-th column out. Therefore:
+
+- $Pe_1 = v_1$
+    
+- $Pe_2 = v_2$
+
+### 2. Stepping through the Deduction
+
+We start with the representation in the Jordan coordinate system, where $J$ is a Jordan block. By definition, $J e_2$ (the second column of $J$) is $\begin{bmatrix} 1 \\ \lambda \end{bmatrix}$, or $\lambda e_2 + 1e_1$.
+
+$$P^{-1}AP = J$$
+
+Now, apply this to the vector $e_2$:
+
+$$(P^{-1}AP)e_2 = Je_2$$
+
+Substitute the known behavior of $J$ on $e_2$:
+
+$$P^{-1}APe_2 = \lambda e_2 + e_1$$
+
+Since $Pe_2 = v_2$, we can substitute that in:
+
+$$P^{-1}A v_2 = \lambda e_2 + e_1$$
+
+Now, multiply both sides from the left by $P$ to move it to the other side:
+
+$$P(P^{-1}A v_2) = P(\lambda e_2 + e_1)$$
+
+$$Av_2 = \lambda(Pe_2) + (Pe_1)$$
+
+Substitute $Pe_2 = v_2$ and $Pe_1 = v_1$ back in:
+
+$$Av_2 = \lambda v_2 + v_1$$
