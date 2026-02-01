@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix -- Moore-Penrose Psudoinverse.md",
+                "file": "Matrix -- Jordan Canonical Form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix -- Moore-Penrose Psudoinverse"
+              "title": "Matrix -- Jordan Canonical Form"
             }
           }
         ],
@@ -258,10 +258,10 @@
   },
   "active": "a1109d07fb702f86",
   "lastOpenFiles": [
+    "Matrix -- Moore-Penrose Psudoinverse.md",
     "Matrix -- Derivative of matrix.md",
     "Untitled.md",
     "Matrix -- Jordan Canonical Form.md",
-    "Matrix -- Moore-Penrose Psudoinverse.md",
     "Manifold reduction.md",
     "Matrix -- Sturm Liouville equation.md",
     "Matrix fundamentals.md",
