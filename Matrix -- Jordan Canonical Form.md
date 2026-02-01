@@ -40,4 +40,5 @@ $e^{At}= \begin{bmatrix} \sum\limits_{n=0}^\infty \frac{B^n t^n}{n!} & 0 \\ 0 & 
 
 But those sums are just exponentials!
 
-eAt=[eBt00eCt]\boxed{ e^{At} = \begin{bmatrix} e^{Bt} & 0 \\ 0 & e^{Ct} \end{bmatrix} }eAt=[eBt0​0eCt​]​
+$\boxed{ e^{At} = \begin{bmatrix} e^{Bt} & 0 \\ 0 & e^{Ct} \end{bmatrix} }$​
+
