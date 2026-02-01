@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3ba1ad4a044e65",
+        "id": "b78b28797ca80b7a",
         "type": "tabs",
         "children": [
           {
-            "id": "10ff5e045b63ffa6",
+            "id": "32e937c38c6ce4a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression -- Singular Value Decomposition with An Example.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Regression -- Singular Value Decomposition with An Example"
-            }
-          },
-          {
-            "id": "ffb597376a2dba34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix -- Sturm Liouville equation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matrix -- Sturm Liouville equation"
-            }
-          },
-          {
-            "id": "d943c253838187c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manifold reduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manifold reduction"
-            }
-          },
-          {
-            "id": "0a4033820fc8de8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix -- Moore-Penrose Psudoinverse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matrix -- Moore-Penrose Psudoinverse"
-            }
-          },
-          {
-            "id": "e4b6198debc277da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix -- Jordan Canonical Form.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matrix -- Jordan Canonical Form"
-            }
-          },
-          {
-            "id": "a1109d07fb702f86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix -- Sturm Liouville equation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matrix -- Sturm Liouville equation"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,8 +181,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1109d07fb702f86",
+  "active": "32e937c38c6ce4a2",
   "lastOpenFiles": [
+    "Matrix -- Sturm Liouville equation.md",
+    "Matrix -- Jordan Canonical Form.md",
+    "Matrix -- Moore-Penrose Psudoinverse.md",
+    "Manifold reduction.md",
+    "Regression -- Singular Value Decomposition with An Example.md",
     "assets/Matrix -- Sturm Liouville equation/file-20260201152520952.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260201152402959.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260201152345556.png",
@@ -265,11 +195,8 @@
     "assets/Matrix -- Sturm Liouville equation/file-20260201152315864.png",
     "assets/Matrix -- Sturm Liouville equation",
     "Matrix -- Vandermonde matrix.md",
-    "Matrix -- Moore-Penrose Psudoinverse.md",
-    "Matrix -- Jordan Canonical Form.md",
     "Matrix -- Derivative of matrix.md",
     "Matrix -- Cayley-Hamilton Theorem.md",
-    "Matrix -- Sturm Liouville equation.md",
     "assets/Matrix -- Vandermonde matrix",
     "tools.md",
     "Untitled.md",
@@ -277,7 +204,6 @@
     "assets/Sklearn_workflow",
     "assets/__temp__Sklearn_workflow",
     "Sklearn_workflow.md",
-    "Regression -- Singular Value Decomposition with An Example.md",
     "assets/Regression -- Singular Value Decomposition with An Example",
     "Regression -- Randomized_SVD.md",
     "Regression -- Partial Least Square.md",
@@ -287,7 +213,6 @@
     "gaussian_process.md",
     "Regression -- Bias-variance tradeoff from StackExchange.md",
     "Regression -- Bias-variance tradeoff.md",
-    "Manifold reduction.md",
     "xgboost.md",
     "assets/Sklearn--Relationship between Different Modules",
     "assets/Relationship",
@@ -300,7 +225,6 @@
     "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md",
     "assets/Sklearn--Relationship between Different Modules/file-20260129182349920.png",
     "assets/Sklearn--Relationship between Different Modules/file-20260129182349917.png",
-    "assets/Sklearn--Relationship between Different Modules/file-20260129182349925.png",
     "assets/Untitled",
     "assets/Singular Value Decomposition with An Example"
   ]
