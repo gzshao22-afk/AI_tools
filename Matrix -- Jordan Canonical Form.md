@@ -100,5 +100,23 @@ If:
 $\text{Geometric multiplicity} < \text{Algebraic multiplicity}$
 * A is **not diagonalizable**  
 * We need Jordan blocks of size > 1  
-👉 That produces the superdiagonal 1’s
+* That produces the superdiagonal 1’s
 
+
+## What do Jordan blocks represent?
+
+They represent **chains of generalized eigenvectors**.
+
+Instead of just:
+
+$(A - \lambda I)v = 0$
+
+we also have vectors that satisfy:
+
+(A−λI)v2=v1(A−λI)v3=v2(A - \lambda I)v_2 = v_1 \\ (A - \lambda I)v_3 = v_2(A−λI)v2​=v1​(A−λI)v3​=v2​
+
+This forms a **Jordan chain**:
+
+v1←v2←v3v_1 \leftarrow v_2 \leftarrow v_3v1​←v2​←v3​
+
+Each chain = one Jordan block.
