@@ -76,7 +76,7 @@ Each block corresponds to **one eigenvalue**.
 
 For eigenvalue $\lambda$, a Jordan block of size k looks like:
 
-$J_k(\lambda) = \begin{bmatrix} \lambda & 1 & 0 & 0 & \cdots \\ 0 & \lambda & 1 & 0 & \cdots \\ 0 & 0 & \lambda & 1 & \cdots \\ \vdots & & & \ddots & 1 \\ 0 & 0 & 0 & 0 & \lambda \end{bmatrix}$
+$J_k(\lambda) = \underbrace{\begin{bmatrix} \lambda & 1 & 0 & 0 & \cdots \\ 0 & \lambda & 1 & 0 & \cdots \\ 0 & 0 & \lambda & 1 & \cdots \\ \vdots & & & \ddots & 1 \\ 0 & 0 & 0 & 0 & \lambda \end{bmatrix}}_{k \text{ columns}}$
 
 So it’s almost diagonal — but with **1’s just above the diagonal**.
 
