@@ -42,3 +42,14 @@ But those sums are just exponentials!
 
 $\boxed{ e^{At} = \begin{bmatrix} e^{Bt} & 0 \\ 0 & e^{Ct} \end{bmatrix} }$​
 
+## Howthis applies to Jordan form
+
+Jordan form is:
+
+$J= \begin{bmatrix} J_1 & 0 & 0\\ 0 & J_2 & 0\\ 0 & 0 & J_3 \end{bmatrix}$
+
+Each $J_i$​ is a Jordan block → so
+
+eJt=[eJ1t000eJ2t000eJ3t]e^{Jt}= \begin{bmatrix} e^{J_1t} & 0 & 0\\ 0 & e^{J_2t} & 0\\ 0 & 0 & e^{J_3t} \end{bmatrix}eJt=​eJ1​t00​0eJ2​t0​00eJ3​t​​
+
+That’s why we can compute block by block.
