@@ -90,17 +90,17 @@ They appear when **A doesn’t have enough eigenvectors**.
 
 For an eigenvalue $\lambda$:
 
-|Term|Meaning|
-|---|---|
-|**Algebraic multiplicity**|How many times λ appears as a root of the characteristic polynomial|
-|**Geometric multiplicity**|Number of independent eigenvectors for λ|
+| Term                       | Meaning                                                             |
+| -------------------------- | ------------------------------------------------------------------- |
+| **Algebraic multiplicity** | How many times λ appears as a root of the characteristic polynomial |
+| **Geometric multiplicity** | Number of independent eigenvectors for λ                            |
 
 If:
 
-Geometric multiplicity<Algebraic multiplicity\text{Geometric multiplicity} < \text{Algebraic multiplicity}Geometric multiplicity<Algebraic multiplicity
+\text{Geometric multiplicity} < \text{Algebraic multiplicity}Geometric multiplicity<Algebraic multiplicity
 
 👉 A is **not diagonalizable**  
 👉 We need Jordan blocks of size > 1  
 👉 That produces the superdiagonal 1’s
 
-
+<Algebraic afdsfsdfds>
