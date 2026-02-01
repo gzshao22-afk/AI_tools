@@ -42,7 +42,7 @@ But those sums are just exponentials!
 
 $\boxed{ e^{At} = \begin{bmatrix} e^{Bt} & 0 \\ 0 & e^{Ct} \end{bmatrix} }$​
 
-## Howthis applies to Jordan form
+## How this applies to Jordan form
 
 Jordan form is:
 
@@ -53,3 +53,21 @@ Each $J_i$​ is a Jordan block → so
 $e^{Jt}= \begin{bmatrix} e^{J_1t} & 0 & 0\\ 0 & e^{J_2t} & 0\\ 0 & 0 & e^{J_3t} \end{bmatrix}$
 
 That’s why we can compute block by block.
+
+## Jordan Normal Form
+For a square matrix **A**, we try to find an invertible matrix **P** such that:
+
+$A = PJP^{-1}$
+
+where **J** is the **Jordan form**.
+
+So A and J represent the **same linear transformation**, just in a smarter coordinate system.
+
+
+## What does J look like?
+
+J is made of blocks called **Jordan blocks** placed along the diagonal:
+
+$J = \begin{bmatrix} J_1 & 0 & 0 \\ 0 & J_2 & 0 \\ 0 & 0 & J_3 \end{bmatrix}$
+
+Each block corresponds to **one eigenvalue**.
