@@ -118,6 +118,8 @@ $(A - \lambda I)v_3 = v_2$
 
 This forms a **Jordan chain**:
 
-v1←v2←v3v_1 \leftarrow v_2 \leftarrow v_3v1​←v2​←v3​
+$v_1 \leftarrow v_2 \leftarrow v_3$
 
 Each chain = one Jordan block.
+
+
