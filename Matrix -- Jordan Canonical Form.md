@@ -98,7 +98,7 @@ For an eigenvalue $\lambda$:
 If:
 
 $\text{Geometric multiplicity} < \text{Algebraic multiplicity}$
-:tent: A is **not diagonalizable**  
-👉 We need Jordan blocks of size > 1  
+* A is **not diagonalizable**  
+* We need Jordan blocks of size > 1  
 👉 That produces the superdiagonal 1’s
 
