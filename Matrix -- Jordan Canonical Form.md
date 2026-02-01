@@ -123,3 +123,14 @@ $v_1 \leftarrow v_2 \leftarrow v_3$
 Each chain = one Jordan block.
 
 
+## Deduction of Jordan Normal Form
+
+$A=PJP^{-1}$
+
+$P^{-1}AP=J$
+
+D is the Jordan Normal Form
+
+>Prove that:
+>$P^{-1}APv_2=Jv_2=\lambda v_2+v_1$
+>
