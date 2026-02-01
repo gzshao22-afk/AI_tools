@@ -17,27 +17,27 @@ $\lambda_3=0$
 
 7. U and V have shared non-zero eigenvalues because:
 
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129073240509.png)
+![500](file-20260201075035639.png)
 
 
 
 ### Example of SVD
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129103109307.png)
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129103145595.png)
+![500](file-20260201075035629.png)
+![500](file-20260201075035636.png)
 
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129103213326.png)
+![500](file-20260201075035633.png)
 
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129103242979.png)
+![500](file-20260201075035625.png)
 
 
 ### Example of PCR
 
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105433739.png)
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105458613.png)
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105604053.png)
+![500](file-20260201075035610.png)
+![500](file-20260201075035621.png)
+![500](file-20260201075035616.png)
 
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105711486.png)
-![500](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129105740244.png)
+![500](file-20260201075035580.png)
+![500](file-20260201075035494.png)
 
 
 ### sklearn PCR pipeline with grid-search
@@ -85,7 +85,7 @@ grid.fit(X_train, y_train)
 print(f"Best n_components: {grid.best_params_['pca__n_components']}")
 
 ```
-![300](./assets/Singular%20Value%20Decomposition%20with%20An%20Example/file-20260129155215386.png)
+![300](file-20260201075035538.png)
 
 
 For Grid Search, need to use specific names for the parameters to be optimized. The names for a model can be find from ```get_params()```method on the model instance.

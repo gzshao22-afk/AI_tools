@@ -71,3 +71,15 @@ J is made of blocks called **Jordan blocks** placed along the diagonal:
 $J = \begin{bmatrix} J_1 & 0 & 0 \\ 0 & J_2 & 0 \\ 0 & 0 & J_3 \end{bmatrix}$
 
 Each block corresponds to **one eigenvalue**.
+
+## A Jordan Block
+
+For eigenvalue $\lambda$, a Jordan block of size k looks like:
+
+$J_k(\lambda) = \begin{bmatrix} \lambda & 1 & 0 & 0 & \cdots \\ 0 & \lambda & 1 & 0 & \cdots \\ 0 & 0 & \lambda & 1 & \cdots \\ \vdots & & & \ddots & 1 \\ 0 & 0 & 0 & 0 & \lambda \end{bmatrix}$
+
+So it’s almost diagonal — but with **1’s just above the diagonal**.
+
+Those 1’s are the whole story.
+
+

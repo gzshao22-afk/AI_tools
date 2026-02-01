@@ -58,13 +58,13 @@ https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_
 ### Cross-Validation Workflow
 
 Grid search is used to find the best parameters
-  ![500](./assets/sklearn_workflow/file-20260128191112792.png)
+  ![500](file-20260201075048150.png)
 https://scikit-learn.org/stable/modules/cross_validation.html
 
 
 
 K-Fold cross validation
-![500](./assets/sklearn_workflow/file-20260128191603423.png)
+![500](file-20260201075048153.png)
 
 Grid search is designed to work with K fold:
 ```python
