@@ -68,7 +68,7 @@ So A and J represent the **same linear transformation**, just in a smarter coord
 
 J is made of blocks called **Jordan blocks** placed along the diagonal:
 
-$J = \left. \begin{bmatrix} J_1 & 0 & 0 \\ 0 & J_2 & 0 \\ 0 & 0 & J_3 \end{bmatrix} \right\$
+$J = \left{\begin{bmatrix} J_1 & 0 & 0 \\ 0 & J_2 & 0 \\ 0 & 0 & J_3 \end{bmatrix} \right\}$
 
 Each block corresponds to **one eigenvalue**.
 
