@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix -- Vandermonde matrix.md",
+                "file": "Matrix -- Sturm Liouville equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix -- Vandermonde matrix"
+              "title": "Matrix -- Sturm Liouville equation"
             }
           }
         ],
@@ -258,12 +258,12 @@
   },
   "active": "a1109d07fb702f86",
   "lastOpenFiles": [
+    "Matrix -- Vandermonde matrix.md",
     "Matrix -- Moore-Penrose Psudoinverse.md",
     "Matrix -- Jordan Canonical Form.md",
     "Matrix -- Derivative of matrix.md",
     "Matrix -- Cayley-Hamilton Theorem.md",
     "Matrix -- Sturm Liouville equation.md",
-    "Matrix -- Vandermonde matrix.md",
     "assets/Matrix -- Vandermonde matrix",
     "tools.md",
     "Untitled.md",
