@@ -68,7 +68,7 @@ So A and J represent the **same linear transformation**, just in a smarter coord
 
 J is made of blocks called **Jordan blocks** placed along the diagonal:
 
-$J = \left{\begin{bmatrix} J_1 & 0 & 0 \\ 0 & J_2 & 0 \\ 0 & 0 & J_3 \end{bmatrix} \right\}$
+$J = \begin{bmatrix} J_1 & 0 & 0 \\ 0 & J_2 & 0 \\ 0 & 0 & J_3 \end{bmatrix}$
 
 Each block corresponds to **one eigenvalue**.
 
@@ -81,5 +81,26 @@ $J_k(\lambda) = \underbrace{\begin{bmatrix} \lambda & 1 & 0 & 0 & \cdots \\ 0 & 
 So it’s almost diagonal — but with **1’s just above the diagonal**.
 
 Those 1’s are the whole story.
+
+## Why do those 1’s appear?
+
+They appear when **A doesn’t have enough eigenvectors**.
+
+### Two key numbers
+
+For an eigenvalue $\lambda$:
+
+|Term|Meaning|
+|---|---|
+|**Algebraic multiplicity**|How many times λ appears as a root of the characteristic polynomial|
+|**Geometric multiplicity**|Number of independent eigenvectors for λ|
+
+If:
+
+Geometric multiplicity<Algebraic multiplicity\text{Geometric multiplicity} < \text{Algebraic multiplicity}Geometric multiplicity<Algebraic multiplicity
+
+👉 A is **not diagonalizable**  
+👉 We need Jordan blocks of size > 1  
+👉 That produces the superdiagonal 1’s
 
 
