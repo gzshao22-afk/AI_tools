@@ -64,3 +64,8 @@ $$\begin{align}
 $$\begin{equation*}
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \end{equation*}$$
+### Cauchy-Euler equation
+$$x^2y{''}-xy-3y=2x^2$$
+1. Assuming $y =x^r$, Find the homogeneous solution to $$x^2y{''}-xy-3y=0$$
+2. Find the Particular Solution ($y_p$)
+   For the non-homogeneous term $f(x)=2x^2$, we can use the method of Variation of Parameters. 
