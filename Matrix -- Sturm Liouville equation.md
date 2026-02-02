@@ -64,7 +64,7 @@ $$x^2y{''}-xy-3y=2x^2$$
 
 
 
-
+$\sim$
 
 
 ### Green's function
