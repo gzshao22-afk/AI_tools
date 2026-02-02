@@ -48,3 +48,11 @@ $$
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152520952.png)
 
 ### Green's function
+
+
+<div style="background-color: #e3e3e3; padding: 10px; border: 1px solid #ccc;">
+This is text inside a colored box.
+</div>
+
+<span style="background-color: green;">Mrs. Robinson</span>
+
