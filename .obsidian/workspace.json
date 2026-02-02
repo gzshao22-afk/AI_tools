@@ -11,10 +11,14 @@
             "id": "32e937c38c6ce4a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Matrix -- Sturm Liouville equation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Matrix -- Sturm Liouville equation"
             }
           }
         ]
@@ -166,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +188,9 @@
   },
   "active": "32e937c38c6ce4a2",
   "lastOpenFiles": [
+    "Matrix -- Moore-Penrose Psudoinverse.md",
     "Matrix -- Sturm Liouville equation.md",
     "Matrix -- Jordan Canonical Form.md",
-    "Matrix -- Moore-Penrose Psudoinverse.md",
     "Manifold reduction.md",
     "Regression -- Singular Value Decomposition with An Example.md",
     "assets/Matrix -- Sturm Liouville equation/file-20260201152520952.png",
