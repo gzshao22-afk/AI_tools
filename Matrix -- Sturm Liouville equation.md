@@ -63,24 +63,9 @@ $$x^2y{''}-xy-3y=2x^2$$
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202093452355.png)
 
 
-
-$\sim$
+#### Another example problem
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202141430686.png)
 
 
 ### Green's function
 
-
-<div style="background-color: #e3e3e3; padding: 10px; border: 1px solid #ccc; ">
-This is text inside a colored box.
-</div>
-
-$$\begin{align}
- \dot{x} & = \sigma(y-x) \\
- \dot{y} & = \rho x - y - xz \\
- \dot{z} & = -\beta z + xy
- \end{align}$$
-
-
-$$\begin{equation*}
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\end{equation*}$$
