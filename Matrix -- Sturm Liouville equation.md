@@ -69,6 +69,7 @@ $$x^2y{''}-xy-3y=2x^2$$
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202141645844.png)
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202141706080.png)
 
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202141723916.png)
 
 
 
