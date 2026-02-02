@@ -47,6 +47,26 @@ $$
 
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152520952.png)
 
+
+### Cauchy-Euler equation
+
+Example problem:
+$$x^2y{''}-xy-3y=2x^2$$
+1. Assuming $y =x^r$, Find the homogeneous solution to $$x^2y{''}-xy-3y=0$$
+2. Find the Particular Solution ($y_p$)
+   For the non-homogeneous term $f(x)=2x^2$, we can use the method of Variation of Parameters. 
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202093328866.png)
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202093350095.png)
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202093432558.png)
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202093452355.png)
+
+
+
+
+
+
 ### Green's function
 
 
@@ -64,8 +84,3 @@ $$\begin{align}
 $$\begin{equation*}
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \end{equation*}$$
-### Cauchy-Euler equation
-$$x^2y{''}-xy-3y=2x^2$$
-1. Assuming $y =x^r$, Find the homogeneous solution to $$x^2y{''}-xy-3y=0$$
-2. Find the Particular Solution ($y_p$)
-   For the non-homogeneous term $f(x)=2x^2$, we can use the method of Variation of Parameters. 
