@@ -50,6 +50,7 @@ $$
 
 ### Cauchy-Euler equation
 
+General form
 Example problem:
 $$x^2y{''}-xy-3y=2x^2$$
 1. Assuming $y =x^r$, Find the homogeneous solution to $$x^2y{''}-xy-3y=0$$
