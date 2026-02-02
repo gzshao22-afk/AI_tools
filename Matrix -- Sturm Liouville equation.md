@@ -48,7 +48,7 @@ $$
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260201152520952.png)
 
 
-### Cauchy-Euler equation
+### Cauchy-Euler Equation
 
 General form:
 $$a_nx^n\frac{d^ny}{dx^n} + a_{n-1}x^{n-1}\frac{d^{n-1}y}{dx^{n-1 }} + \cdots + a_1x\frac{dy}{dx}+a_0y = f(x)$$
@@ -72,6 +72,13 @@ $$x^2y{''}-xy-3y=2x^2$$
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202141706080.png)
 
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202141723916.png)
+
+
+### Bessel's Equation
+
+The Bessel equation of order $\alpha$
+$$x^2\frac{d^2y}{dx^2}+x\frac{dy}{dx}+(x^2-\alpha^2)y=0$$
+where $\alpha$ is a constant, often an integer or half-integer, representing the order of the equation.
 
 
 
