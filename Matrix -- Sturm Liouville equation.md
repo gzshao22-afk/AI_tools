@@ -80,6 +80,18 @@ The Bessel equation of order $\alpha$
 $$x^2\frac{d^2y}{dx^2}+x\frac{dy}{dx}+(x^2-\alpha^2)y=0$$
 where $\alpha$ is a constant, often an integer or half-integer, representing the order of the equation.
 
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202152709197.png)
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202152759236.png)
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202152821912.png)
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202152844881.png)
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202152912634.png)
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202152942562.png)
+
 
 
 
