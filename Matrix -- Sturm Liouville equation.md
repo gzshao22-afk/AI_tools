@@ -51,7 +51,7 @@ $$
 ### Cauchy-Euler equation
 
 General form:
-$$a_nx^n\frac{d^ny}{}$$
+$$a_nx^n\frac{d^ny}{dx^n} + a_{n-1}x^{n-1}\frac{d^ny}{dx^n}$$
 Example problem:
 $$x^2y{''}-xy-3y=2x^2$$
 1. Assuming $y =x^r$, Find the homogeneous solution to $$x^2y{''}-xy-3y=0$$
