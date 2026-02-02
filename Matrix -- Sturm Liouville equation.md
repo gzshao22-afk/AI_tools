@@ -50,9 +50,8 @@ $$
 ### Green's function
 
 
-<div style="background-color: #e3e3e3; padding: 10px; border: 1px solid #ccc;">
+<div style="background-color: #e3e3e3; padding: 10px; border: 1px solid #ccc; ">
 This is text inside a colored box.
 </div>
 
-<span style="background-color: green;">Mrs. Robinson</span>
 
