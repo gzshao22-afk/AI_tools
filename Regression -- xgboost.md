@@ -9,12 +9,12 @@ Hessian matrix is the transpose of Jacobian of gradient
 https://en.wikipedia.org/wiki/Hessian_matrix
 
 one hot encode
-![500](./assets/xgboost/file-20260129182013151.png)
+![500](file-20260203062834168.png)
 
 https://www.kaggle.com/code/alexisbcook/categorical-variables
 
 Imputation for filling missing values
 
-![500](./assets/xgboost/file-20260129182056768.png)
+![500](file-20260203062834166.png)
 
 https://www.kaggle.com/code/alexisbcook/missing-values

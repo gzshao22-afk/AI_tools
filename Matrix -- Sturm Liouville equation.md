@@ -133,8 +133,13 @@ $$(1-x^2)\frac{d^2y}{dx^2}-x\frac{dy}{dx}+n^2y=0$$
 
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202205953058.png)
 
-
-
+**A different way to write Chebyshev polynomials**
+Let $x=cos\, \theta$, which implies $\theta=arccos\, x$. The polynomial becomes:
+$$T_n(cos\, \theta)=cos(n\theta)$$
+We can express $cos(n\theta)$ as the real part of Euler's formula:
+$$cos(n\theta)=Re(e^{in\theta})=Re((cos\, \theta+i\, sin\, \theta)^n)$$
+Using Binomial Theorem to expand $(cos\, \theta+i\, sin\, \theta)^n$:
+$$$(cos\, \theta+i\, sin\, \theta)^n=\sum_{k=0}^n \choose{n}{k}$$$
 ### Sturm-Liouville Equation
 $$-\frac{d}{dx}\left[p(x)\frac{dy}{dx}\right]+q(x)y=\lambda w(x)y$$
 

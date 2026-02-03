@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regression -- Bias-variance tradeoff.md",
+                "file": "Matrix -- Sturm Liouville equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regression -- Bias-variance tradeoff"
+              "title": "Matrix -- Sturm Liouville equation"
             }
           }
         ]
@@ -188,6 +188,18 @@
   },
   "active": "4a81b964c37514e7",
   "lastOpenFiles": [
+    "Regression -- Gaussian Process.md",
+    "LLM course.md",
+    "Progress.md",
+    "Regression -- xgboost.md",
+    "assets/Regression -- xgboost",
+    "Cheat sheet.md",
+    "Sklearn--Relationship between Different Modules.md",
+    "Sklearn_workflow.md",
+    "Regression -- Singular Value Decomposition with An Example.md",
+    "Regression -- Randomized_SVD.md",
+    "Regression -- Partial Least Square.md",
+    "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
     "Regression -- Bias-variance tradeoff from StackExchange.md",
     "Regression -- Bias-variance tradeoff.md",
     "Matrix -- Gaussian elimination.md",
@@ -209,28 +221,16 @@
     "assets/Matrix -- Sturm Liouville equation/file-20260202182716430.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202182659336.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202182618405.png",
-    "Regression -- Singular Value Decomposition with An Example.md",
     "assets/Matrix -- Sturm Liouville equation",
     "assets/Matrix -- Vandermonde matrix",
-    "tools.md",
     "Untitled.md",
-    "Sklearn--Relationship between Different Modules.md",
     "assets/Sklearn_workflow",
     "assets/__temp__Sklearn_workflow",
-    "Sklearn_workflow.md",
     "assets/Regression -- Singular Value Decomposition with An Example",
-    "Regression -- Randomized_SVD.md",
-    "Regression -- Partial Least Square.md",
-    "Progress.md",
-    "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
-    "gaussian_process.md",
-    "xgboost.md",
     "assets/Sklearn--Relationship between Different Modules",
     "assets/Relationship",
-    "LLM course.md",
     "assets/xgboost",
     "Excalidraw/Drawing 2026-01-29 15.46.34.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md",
-    "assets/Untitled"
+    "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md"
   ]
 }
