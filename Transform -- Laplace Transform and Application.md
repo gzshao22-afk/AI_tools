@@ -4,7 +4,6 @@ $\mathbb {R Z Q C}$
 
 [Beginner's Guide on Filter Topology](https://www.analog.com/en/resources/technical-articles/a-beginners-guide-to-filter-topologies.html#:~:text=Using%20low%20pass%20filters%20as,thus%20making%20it%20relatively%20inexpensive)
 
-
 The Laplace transform $\mathscr L$ is defined as:
 $$\mathscr L[f(t)](s)\equiv \int_0^{\infty}f(t)e^{-st}dt$$
 
