@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b78b28797ca80b7a",
+        "id": "679066f5ad8146a1",
         "type": "tabs",
         "children": [
           {
-            "id": "32e937c38c6ce4a2",
+            "id": "4a81b964c37514e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,21 +186,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "32e937c38c6ce4a2",
+  "active": "4a81b964c37514e7",
   "lastOpenFiles": [
+    "Matrix -- Sturm Liouville equation.md",
+    "assets/Matrix -- Sturm Liouville equation/file-20260202182835882.png",
+    "assets/Matrix -- Sturm Liouville equation/file-20260202182812997.png",
+    "assets/Matrix -- Sturm Liouville equation/file-20260202182800407.png",
+    "assets/Matrix -- Sturm Liouville equation/file-20260202182739972.png",
+    "assets/Matrix -- Sturm Liouville equation/file-20260202182716430.png",
+    "assets/Matrix -- Sturm Liouville equation/file-20260202182659336.png",
+    "assets/Matrix -- Sturm Liouville equation/file-20260202182618405.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202171658685.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202171640621.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202171623106.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202171607153.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202152942562.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202152912634.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202152844881.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202152821912.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202152759236.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202152709197.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202141723916.png",
     "Matrix -- Moore-Penrose Psudoinverse.md",
-    "Matrix -- Sturm Liouville equation.md",
     "Matrix -- Jordan Canonical Form.md",
     "Manifold reduction.md",
     "Regression -- Singular Value Decomposition with An Example.md",
