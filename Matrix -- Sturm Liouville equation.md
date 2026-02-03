@@ -99,8 +99,11 @@ $$(1-x^2)\frac{d^2y}{dx^2}-2x\frac{dy}{dx}+l(l+1)y=0$$
 The solutions: Legendre Polynomials. Here are the first few:
 + $P_0(x)=1$
 + $P_1(x)=x$
-+ $P_2(x)=1$
++ $P_2(x)=\frac12(3x^2-1)$
++ $P_3(x)=\frac12(5x^3-3x)$
 
+Instead of solving the ODE from scratch every time, you can generate any Legendre Polynomial using **Rodrigues' Formula**:
+$$P_l(x)=\frac{1}{2^ll!}\frac{d^l}{dx^l}(x^2-1)^l$$
 
 ### Schrodinger's Equation
 
