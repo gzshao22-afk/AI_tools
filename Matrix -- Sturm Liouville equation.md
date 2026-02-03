@@ -107,7 +107,9 @@ $$P_l(x)=\frac{1}{2^ll!}\frac{d^l}{dx^l}(x^2-1)^l$$
 
 
 
-&amp;Ouml; ;;
+&Ouml;
+AT&amp;T
+
 
 
 
