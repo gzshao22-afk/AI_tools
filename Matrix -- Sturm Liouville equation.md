@@ -109,7 +109,9 @@ where $\alpha$ is a constant, often an integer or half-integer, representing the
 | ------- |
 | &ograve |
 
-&amp;ograve;
+`&ograve;`
+
+
 
 
 
