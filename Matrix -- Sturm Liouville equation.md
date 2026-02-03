@@ -115,6 +115,8 @@ $$P_l(x)=\frac{1}{2^ll!}\frac{d^l}{dx^l}(x^2-1)^l$$
 ![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202182835882.png)
 
 
+### Chebyshev Equation
+
 
 ### Sturm-Liouville Equation
 $$-\frac{d}{dx}\left[p(x)\frac{dy}{dx}\right]+q(x)y=\lambda w(x)y$$
