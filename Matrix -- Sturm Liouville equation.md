@@ -116,6 +116,23 @@ $$P_l(x)=\frac{1}{2^ll!}\frac{d^l}{dx^l}(x^2-1)^l$$
 
 
 ### Chebyshev Equation
+1. The standard form (of the first kind):
+$$(1-x^2)\frac{d^2y}{dx^2}-x\frac{dy}{dx}+n^2y=0$$
+2. Sturm-Liouville (S-L) Form
+   To transform this into the standard S-L form, $\frac{d}{dx}[p(x)\frac{dy}{dx}]+q(x)y+\lambda w(x)y=0$, multipy by an integrating factor of $(1-x^2)^{-1/2}$
+   + $p(x)=\sqrt{1-x^2}$: The self-adjoint coefficient
+   + $q(x)=0$: no middle term in this S-L form
+   + $w(x)=\frac{1}{\sqrt{1-x^2}}$: this is the weight function, which defines how the solutions are orthogonal
+   + $\lambda = n^2$: the eigenvalue
+3. Solutions (Eigenfunctions)
+   The solutions to this equation are the Chebyshev polynomials of the first kind:
+   $$T_n(x)=cos(n\ arccos\, x)$$
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202205905147.png)
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202205932522.png)
+
+![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202205953058.png)
+
 
 
 ### Sturm-Liouville Equation
