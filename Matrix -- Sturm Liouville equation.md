@@ -93,6 +93,12 @@ where $\alpha$ is a constant, often an integer or half-integer, representing the
 ![400](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202152942562.png)
 
 
+### Legendre's Equation
+
+
+### Schrodinger's Equation
+
+$\&oacute$
 
 
 ### Green's function
