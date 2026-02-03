@@ -98,18 +98,19 @@ where $\alpha$ is a constant, often an integer or half-integer, representing the
 
 ### Schrodinger's Equation
 
-&oacute
-`&oacute`
-&oacute
-&oacute
+![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202171623106.png)
 
-&oacute
+![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202171607153.png)
 
-|         |
-| ------- |
-| &ograve |
+![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202171640621.png)
 
-`&ograve;`
+![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202171658685.png)
+
+
+
+
+
+&amp;ograve
 
 
 
