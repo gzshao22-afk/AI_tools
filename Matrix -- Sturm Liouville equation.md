@@ -98,7 +98,8 @@ where $\alpha$ is a constant, often an integer or half-integer, representing the
 
 ### Schrodinger's Equation
 
-$\&oacute$
+<oacute>
+
 
 
 ### Green's function
