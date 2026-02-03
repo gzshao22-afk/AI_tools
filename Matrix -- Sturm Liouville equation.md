@@ -147,6 +147,10 @@ $$\begin{aligned} T_n(cos\,\theta) &=cos(n\theta) \\
 &=\sum_{j=0}^{\lfloor n/2 \rfloor} (-1)^j \binom{n}{2j}(cos\,\theta)^{n-2j}(i)(sin^2\,\theta)^j \\
 &=\sum_{0 \leq j \leq {n/2}} (-1)^j \binom{n}{2j}x^{n-2j}(1-x^2)^j \end{aligned}$$
 
+
+
+
+
 ### Sturm-Liouville Equation
 $$-\frac{d}{dx}\left[p(x)\frac{dy}{dx}\right]+q(x)y=\lambda w(x)y$$
 
