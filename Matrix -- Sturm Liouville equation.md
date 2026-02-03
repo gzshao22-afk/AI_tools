@@ -98,7 +98,30 @@ where $\alpha$ is a constant, often an integer or half-integer, representing the
 
 ### Schrodinger's Equation
 
-<oacute>
+&oacute
+`&oacute`
+&oacute
+&oacute
+
+&oacute
+
+|         |
+| ------- |
+| &ograve |
+
+&amp;ograve;
+
+
+
+
+
+ 
+
+
+
+
+
+
 
 
 
