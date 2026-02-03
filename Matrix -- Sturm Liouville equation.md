@@ -143,10 +143,6 @@ $$(cos\, \theta+i\, sin\, \theta)^n=\sum_{k=0}^n \binom{n}{k}(cos\,\theta)^{n-k}
 To find the real part, we consider only the terms that are real, when k is an even number. Let $k=2j$:
 $$Re((cos\, \theta+i\, sin\, \theta)^n)=\sum_{j=0}^{\lfloor n/2 \rfloor} \binom{n}{2j}(cos\,\theta)^{n-2j}(i)^{2j}(sin\,\theta)^{2j}$$
 Thus:
-$$T_n(cos\,\theta)=cos(n\theta)
-=\sum_{j=0}^{\lfloor n/2 \rfloor} (-1)^j \binom{n}{2j}(cos\,\theta)^{n-2j}(i)(sin^2\,\theta)^j
-=\sum_{0 \leq j \leq {n/2}} (-1)^j \binom{n}{2j}x^{n-2j}(1-x^2)^j$$
-
 $$\begin{aligned} T_n(cos\,\theta) &=cos(n\theta) \\
 &=\sum_{j=0}^{\lfloor n/2 \rfloor} (-1)^j \binom{n}{2j}(cos\,\theta)^{n-2j}(i)(sin^2\,\theta)^j \\
 &=\sum_{0 \leq j \leq {n/2}} (-1)^j \binom{n}{2j}x^{n-2j}(1-x^2)^j \end{aligned}$$
