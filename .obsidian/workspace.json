@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix -- Sturm Liouville equation.md",
+                "file": "Regression -- Bias-variance tradeoff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix -- Sturm Liouville equation"
+              "title": "Regression -- Bias-variance tradeoff"
             }
           }
         ]
@@ -188,10 +188,20 @@
   },
   "active": "4a81b964c37514e7",
   "lastOpenFiles": [
+    "Regression -- Bias-variance tradeoff from StackExchange.md",
+    "Regression -- Bias-variance tradeoff.md",
+    "Matrix -- Gaussian elimination.md",
+    "assets/Matrix -- Gaussian elimination",
+    "Matrix -- Vandermonde matrix.md",
+    "Matrix -- Sturm Liouville equation.md",
+    "Matrix -- Moore-Penrose Psudoinverse.md",
+    "Matrix -- Jordan Canonical Form.md",
+    "Matrix -- Derivative of matrix.md",
+    "Matrix -- Cayley-Hamilton Theorem.md",
+    "Manifold reduction.md",
     "assets/Matrix -- Sturm Liouville equation/file-20260202205953058.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202205932522.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202205905147.png",
-    "Matrix -- Sturm Liouville equation.md",
     "assets/Matrix -- Sturm Liouville equation/file-20260202182835882.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202182812997.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202182800407.png",
@@ -199,15 +209,8 @@
     "assets/Matrix -- Sturm Liouville equation/file-20260202182716430.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202182659336.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202182618405.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202171658685.png",
-    "Matrix -- Moore-Penrose Psudoinverse.md",
-    "Matrix -- Jordan Canonical Form.md",
-    "Manifold reduction.md",
     "Regression -- Singular Value Decomposition with An Example.md",
     "assets/Matrix -- Sturm Liouville equation",
-    "Matrix -- Vandermonde matrix.md",
-    "Matrix -- Derivative of matrix.md",
-    "Matrix -- Cayley-Hamilton Theorem.md",
     "assets/Matrix -- Vandermonde matrix",
     "tools.md",
     "Untitled.md",
@@ -219,11 +222,8 @@
     "Regression -- Randomized_SVD.md",
     "Regression -- Partial Least Square.md",
     "Progress.md",
-    "Matrix fundamentals.md",
     "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
     "gaussian_process.md",
-    "Regression -- Bias-variance tradeoff from StackExchange.md",
-    "Regression -- Bias-variance tradeoff.md",
     "xgboost.md",
     "assets/Sklearn--Relationship between Different Modules",
     "assets/Relationship",
@@ -231,7 +231,6 @@
     "assets/xgboost",
     "Excalidraw/Drawing 2026-01-29 15.46.34.excalidraw.md",
     "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md",
-    "assets/Untitled",
-    "assets/Singular Value Decomposition with An Example"
+    "assets/Untitled"
   ]
 }
