@@ -105,23 +105,9 @@ The solutions: Legendre Polynomials. Here are the first few:
 Instead of solving the ODE from scratch every time, you can generate any Legendre Polynomial using **Rodrigues' Formula**:
 $$P_l(x)=\frac{1}{2^ll!}\frac{d^l}{dx^l}(x^2-1)^l$$
 
-### Schrodinger's Equation
-
-![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202171623106.png)
-
-![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202171607153.png)
-
-![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202171640621.png)
-
-![](./assets/Matrix%20--%20Sturm%20Liouville%20equation/file-20260202171658685.png)
 
 
-
-
-
-&amp;ograve
-
-
+&amp;Ouml; ;;
 
 
 
@@ -132,7 +118,7 @@ $$P_l(x)=\frac{1}{2^ll!}\frac{d^l}{dx^l}(x^2-1)^l$$
 
 
 
-
+### Schrodinger's equation
 
 
 
