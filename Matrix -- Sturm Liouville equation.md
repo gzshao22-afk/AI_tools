@@ -139,8 +139,9 @@ $$T_n(cos\, \theta)=cos(n\theta)$$
 We can express $cos(n\theta)$ as the real part of Euler's formula:
 $$cos(n\theta)=Re(e^{in\theta})=Re((cos\, \theta+i\, sin\, \theta)^n)$$
 Using Binomial Theorem to expand $(cos\, \theta+i\, sin\, \theta)^n$:
-$$$(cos\, \theta+i\, sin\, \theta)^n=\sum_{k=0}^n \binom{n}{k}(cos\,\theta)^{n-k}(i\,sin\,\theta)^k$$
-To find the real part, we consider only the terms that are real, when k is an even number. Let $$
+$$(cos\, \theta+i\, sin\, \theta)^n=\sum_{k=0}^n \binom{n}{k}(cos\,\theta)^{n-k}(i\,sin\,\theta)^k$$
+To find the real part, we consider only the terms that are real, when k is an even number. Let $k=2j$:
+$$(cos\, \theta+i\, sin\, \theta)^n=\sum_{k=0}^n \binom{n}{k}(cos\,\theta)^{n-k}(i\,sin\,\theta)^k$$
 ### Sturm-Liouville Equation
 $$-\frac{d}{dx}\left[p(x)\frac{dy}{dx}\right]+q(x)y=\lambda w(x)y$$
 
