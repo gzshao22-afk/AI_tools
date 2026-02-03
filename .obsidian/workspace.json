@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transform -- Laplace Transform.md",
+                "file": "Transform -- Laplace Transform and Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transform -- Laplace Transform"
+              "title": "Transform -- Laplace Transform and Application"
             }
           }
         ],
@@ -203,8 +203,16 @@
   },
   "active": "f495c000a7d1cbd6",
   "lastOpenFiles": [
+    "assets/Transform -- Laplace Transform and Application/file-20260203154305155.png",
+    "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
+    "assets/Transform -- Laplace Transform and Application/file-20260203154225790.png",
+    "assets/Transform -- Laplace Transform and Application/file-20260203154114874.png",
+    "assets/Transform -- Laplace Transform and Application/file-20260203154043063.png",
+    "assets/Transform -- Laplace Transform and Application/file-20260203154008693.png",
+    "assets/Transform -- Laplace Transform and Application/file-20260203153512787.png",
+    "assets/Transform -- Laplace Transform and Application",
     "Matrix -- Sturm Liouville equation.md",
-    "Transform -- Laplace Transform.md",
+    "Transform -- Laplace Transform and Application.md",
     "Regression -- Gaussian Process.md",
     "LLM course.md",
     "Progress.md",
@@ -231,12 +239,6 @@
     "assets/Matrix -- Sturm Liouville equation/file-20260202205932522.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202205905147.png",
     "assets/Matrix -- Sturm Liouville equation/file-20260202182835882.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202182812997.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202182800407.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202182739972.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202182716430.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202182659336.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202182618405.png",
     "assets/Matrix -- Sturm Liouville equation",
     "assets/Matrix -- Vandermonde matrix",
     "assets/Sklearn_workflow",
@@ -244,7 +246,6 @@
     "assets/Regression -- Singular Value Decomposition with An Example",
     "assets/Sklearn--Relationship between Different Modules",
     "assets/Relationship",
-    "assets/xgboost",
     "Excalidraw/Drawing 2026-01-29 15.46.34.excalidraw.md",
     "Excalidraw/Drawing 2026-01-28 11.20.14.excalidraw.md"
   ]
