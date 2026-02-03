@@ -116,6 +116,9 @@ $$P_l(x)=\frac{1}{2^ll!}\frac{d^l}{dx^l}(x^2-1)^l$$
 
 
 
+### Sturm-Liouville Equation
+$$-\frac{d}{dx}\left[p(x)\frac{dy}{dx}\right]+q(x)y=\lambda w(x)y$$
+
 
 
 
