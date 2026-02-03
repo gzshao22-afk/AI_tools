@@ -96,8 +96,10 @@ where $\alpha$ is a constant, often an integer or half-integer, representing the
 ### Legendre's Equation
 The standard form:
 $$(1-x^2)\frac{d^2y}{dx^2}-2x\frac{dy}{dx}+l(l+1)y=0$$
-The solutions: Legendre Polynomials
-
+The solutions: Legendre Polynomials. Here are the first few:
++ $P_0(x)=1$
++ $P_1(x)=x$
++ $P_2(x)=1$
 
 
 ### Schrodinger's Equation
