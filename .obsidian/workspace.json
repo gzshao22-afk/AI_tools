@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transform -- Hilbert Transform.md",
+                "file": "Transform -- Laplace Convolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transform -- Hilbert Transform"
+              "title": "Transform -- Laplace Convolution"
             }
           },
           {
@@ -202,13 +202,13 @@
   },
   "active": "825fbed6afe03156",
   "lastOpenFiles": [
-    "Matrix -- Sturm Liouville equation.md",
-    "Transform -- Hilbert Transform.md",
     "Transform -- Laplace Transform and Application.md",
+    "Transform -- Laplace Convolution.md",
+    "Transform -- Hilbert Transform.md",
+    "Matrix -- Sturm Liouville equation.md",
     "Sklearn--Relationship between Different Modules.md",
     "Sklearn_workflow.md",
     "Statistics.md",
-    "Transform -- Convolution.md",
     "assets/Transform -- Laplace Transform and Application/file-20260203154305155.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154225790.png",
