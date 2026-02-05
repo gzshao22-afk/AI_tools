@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Transform -- Laplace Convolution"
             }
+          },
+          {
+            "id": "bb2eedc720a0dcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PyTorch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PyTorch"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,13 +201,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "825fbed6afe03156",
+  "active": "bb2eedc720a0dcdc",
   "lastOpenFiles": [
+    "Transform -- Laplace Convolution.md",
+    "PyTorch.md",
     "assets/Transform -- Laplace Convolution/file-20260204163943774.png",
     "assets/Transform -- Laplace Convolution/file-20260204163911776.png",
     "assets/Transform -- Laplace Convolution",
     "Transform -- Laplace Transform and Application.md",
-    "Transform -- Laplace Convolution.md",
     "Transform -- Hilbert Transform.md",
     "Matrix -- Sturm Liouville equation.md",
     "Sklearn--Relationship between Different Modules.md",
@@ -227,7 +243,6 @@
     "Matrix -- Cayley-Hamilton Theorem.md",
     "Manifold reduction.md",
     "assets/Matrix -- Sturm Liouville equation/file-20260202205953058.png",
-    "assets/Matrix -- Sturm Liouville equation/file-20260202205932522.png",
     "assets/Matrix -- Sturm Liouville equation",
     "assets/Matrix -- Vandermonde matrix",
     "assets/Sklearn_workflow",
