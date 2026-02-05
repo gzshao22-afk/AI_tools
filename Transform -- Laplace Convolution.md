@@ -51,4 +51,9 @@ $$R_n(x)=\int_a^x\frac{(x-t)^n}{n!}f^{n+1}(t)dt$$
 This is the Laplace transform of two functions:
 + $g(t)=\frac{t^n}{n!}$
 + $h(t)=f^{n+1}(t)$
-Applying Laplace Transform 
+Applying Laplace Transform and using the Convolution Theorem:
+$$\mathcal L\{R_n(x)\}=\mathcal L\{\frac{t^n}{n!}\} \,\cdot\,\mathcal L\{f^{(n+1)}(t)\}$$
+![](./assets/Transform%20--%20Laplace%20Convolution/file-20260204163911776.png)
+![](./assets/Transform%20--%20Laplace%20Convolution/file-20260204163943774.png)
+
+
