@@ -23,3 +23,32 @@ By definition:
 + The first part is $\mathcal L\{f\}$
 + The second part is $\mathcal L\{g\}$
 Thus, $\mathcal L\{f\ast g\}=F(s)\cdot G(s)$
+
+
+#### D'Alembert's Work on Taylor's Theorem and Laplace Transform
+Start with the Fundamental Theorem of Calculus:
+$$f(x)=f(a)+\int_a^xf'(t)dt$$
+To perform integration by parts, $\int udv=uv-\int vdu$. If we let $v=-(x-t)$
++ Let $u=f'(t) \Longrightarrow du=f''(d)dt$
++ Let $dv=dt \Longrightarrow v=-(x-t)$
+Applying the formula:
+$$\int_a^xf'(t)dt=\left[-f'(t)(x-t)\right]_a^x - \int_a^x-(x-t)f''(t)dt$$
+
+This gives us:
+$$f(x)=f(a)+f'(a)(x-a)+\int_a^x(x-t)f''(t)dt$$
+
+The second Iteration.
+To evaluate $\int_a^x(x-t)f''(t)dt$ :
++ Let $u=f''(t) \Longrightarrow du=f'''(t)dt$
++ Let $dv=(x-t)dt \Longrightarrow v=-\frac{(x-t)^2}{2}$
+Applying integration by parts again:
+$$\int_a^x(x-t)f''(t)dt=\left[-f''(t)\frac{(x-t)^2}{2}\right]_a^x + \int_a^x\frac{(x-t)^2}{2}f'''(t)dt$$
+Again, this yields:
+$$f(x)=f(a)+f'(a)(x-a)+\frac{f''(a)}{a}(x-a)^2+\int_a^x\frac{(x-t)^2}{2}f'''(t)dt$$
+For the n-th step, the integral remainder $R_n(x)$ becomes:
+$$R_n(x)=\int_a^x\frac{(x-t)^n}{n!}f^{n+1}(t)dt$$
+
+This is the Laplace transform of two functions:
++ $g(t)=\frac{t^n}{n!}$
++ $h(t)=f^{n+1}(t)$
+Applying Laplace Transform 
