@@ -19,7 +19,7 @@ We can rewrite $L_j(x)$ using $W(x)$ as:
 $$L_j(x)=\prod \frac{W(x)}{(x-x_j)W_-(x_j)}$$
 where $W_-(x_j)=\prod_{m\neq j}(x_j-x_m)$. This is a constant for a fixed j.
 
-#### Deriving the off-diagonal
+#### Deriving the off-diagonal ($i\neq j$)
 We differentiate $L_j(x)$ with respect to x using the quotient rule:
 $$L'_j(x)=\frac{1}{W_-(x_j)}\left[\frac{W'(x)(x-x_j)-W(x)}{(x-x_j)^2}\right]$$
 Now, we evaluate this at $x=x_i$:
@@ -27,8 +27,11 @@ Now, we evaluate this at $x=x_i$:
 + Therefore, the formula simplifies to:
 $$L'_j(x_i)=\frac{W'(x_i)}{W'(x_j)(x_i-x_j)}$$
 If we define the weights $a_k=W'(x_k)=\prod_{m\neq k}(x_k-x_m)$, we get the standard off-diagonal formula:
-$$D_{ij}=$$
-
-
+$$D_{ij}=\frac{a_i}{a_j(x_i-x_j)}$$
+#### Deriving the Diagonal ($i=j$)
+Evaluating the derivative at $x=x_j$ is trickier because the formula of above results is 0/0. We must use L'Hopital Rule or Taylor expansion around $x_j$:
+$$W(x)=W'(x_j)(x-x_j)+\frac{W''(x_j)}{2}(x-x_j)^2+O((x-x_j)^3)$$
+Substituting this into expression for $L_j(x)$:
+$$L_j(x)=\frac{W'(x_j)(x-x_j)+\frac{W''(x_j)}{2}(x-x_j)^2}{(x-x_j)W_-(x_j)}=1+\frac{W''(x_j)}{2W_-(x_j)}(x-x_j)$$
 
 
