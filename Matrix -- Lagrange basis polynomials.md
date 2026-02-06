@@ -25,6 +25,7 @@ $$L'_j(x)=\frac{1}{W_-(x_j)}\left[\frac{W'(x)(x-x_j)-W(x)}{(x-x_j)^2}\right]$$
 Now, we evaluate this at $x=x_i$:
 + Since $x_i$ is the root of $W(x)$, we know $W(x_i)=0$
 + Therefore, the formula simplifies to:
+$$L'_j(x_i)=\frac{1}{W_-(x_j)}\left[\frac{W'(x_i)}{(x-x_j)^2}\right]$$
 
 
 
