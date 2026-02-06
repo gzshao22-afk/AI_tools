@@ -34,6 +34,10 @@ $$W(x)=W'(x_j)(x-x_j)+\frac{W''(x_j)}{2}(x-x_j)^2+O((x-x_j)^3)$$
 Substituting this into expression for $L_j(x)$:
 $$L_j(x)=\frac{W'(x_j)(x-x_j)+\frac{W''(x_j)}{2}(x-x_j)^2}{(x-x_j)W_-(x_j)}=1+\frac{W''(x_j)}{2W_-(x_j)}(x-x_j)$$
 Taking the derivative $L'_j(x)$ and evaluating at $x_j$:
-
-
+$$L'_j(x_j)=\frac{W''(x_j)}{2W_-(x_j)}$$
+This eventually simplifies to:
+$$D_{ii}=\sum_{m\neq i}\frac{1}{x_i-x_m}$$
+#### The Second Derivative Matrix ($D^2$)
+There is no need to re-derive everything for higher orders. The 2nd order derivative of interpolant is simply:
+$\mathbh {y}''$
 
