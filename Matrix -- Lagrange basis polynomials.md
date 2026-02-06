@@ -33,5 +33,7 @@ Evaluating the derivative at $x=x_j$ is trickier because the formula of above re
 $$W(x)=W'(x_j)(x-x_j)+\frac{W''(x_j)}{2}(x-x_j)^2+O((x-x_j)^3)$$
 Substituting this into expression for $L_j(x)$:
 $$L_j(x)=\frac{W'(x_j)(x-x_j)+\frac{W''(x_j)}{2}(x-x_j)^2}{(x-x_j)W_-(x_j)}=1+\frac{W''(x_j)}{2W_-(x_j)}(x-x_j)$$
+Taking the derivative $L'_j(x)$ and evaluating at $x_j$:
+
 
 
