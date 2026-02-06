@@ -1,3 +1,8 @@
+Definition of the Lagrange basis polynomial:
+$$L_j(x)=\prod_{m\neq j}\frac{x-x_m}{x_j-x_m}$$
+
+
+
 $$\begin{bmatrix}L_0(x_0) & L_1(x_0) & \cdots & L_n(x_0)\\
 L_0(x_1) & L_1(x_1) & \cdots & L_n(x_1)\\
 \vdots & \vdots & \ddots & \vdots\\
