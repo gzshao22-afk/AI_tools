@@ -11,7 +11,7 @@ L_0(x_1) & L_1(x_1) & \cdots & L_n(x_1)\\
 L_0(x_n) & L_1(x_n) & \cdots & L_n(x_n)\\
 \end{bmatrix}$$
 
-The non-diagonal entries are all 0. However, by expanding each entry:
+For this particular matrix, the non-diagonal entries are all 0. However, by expanding each entry:
 $$L_j(x)=\prod_{m\neq j}\frac{x-x_m}{x_j-x_m}$$
 If we define the **node polynomial W(x)**, which contains all the roots $x_0, x_1, ..., x_n$:
 $$W(x)=\prod_{m=0}^n(x-x_m)$$
