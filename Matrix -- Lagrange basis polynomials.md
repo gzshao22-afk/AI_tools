@@ -39,5 +39,6 @@ This eventually simplifies to:
 $$D_{ii}=\sum_{m\neq i}\frac{1}{x_i-x_m}$$
 #### The Second Derivative Matrix ($D^2$)
 There is no need to re-derive everything for higher orders. The 2nd order derivative of interpolant is simply:
-$\mathbh {y}''$
+$$\mathbf{y}''=D(D\mathbf{y})=D^2\mathbf{y}$$
+
 
