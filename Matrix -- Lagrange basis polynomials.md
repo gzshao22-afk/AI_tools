@@ -22,6 +22,9 @@ where $W_-(x_j)=\prod_{m\neq j}(x_j-x_m)$. This is a constant for a fixed j.
 #### Deriving the off-diagonal
 We differentiate $L_j(x)$ with respect to x using the quotient rule:
 $$L'_j(x)=\frac{1}{W_-(x_j)}\left[\frac{W'(x)(x-x_j)-W(x)}{(x-x_j)^2}\right]$$
+Now, we evaluate this at $x=x_i$:
++ Since $x_i$ is the root of $W(x)$, we know $W(x_i)=0$
++ Therefore, the formula simplifies to:
 
 
 
