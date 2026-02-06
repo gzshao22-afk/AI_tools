@@ -26,7 +26,8 @@ Now, we evaluate this at $x=x_i$:
 + Since $x_i$ is the root of $W(x)$, we know $W(x_i)=0$
 + Therefore, the formula simplifies to:
 $$L'_j(x_i)=\frac{W'(x_i)}{W'(x_j)(x_i-x_j)}$$
-
+If we define the weights $a_k=W'(x_k)=\prod_{m\neq k}(x_k-x_m)$, we get the standard off-diagonal formula:
+$$$$
 
 
 
