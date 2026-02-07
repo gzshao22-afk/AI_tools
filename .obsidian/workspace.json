@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Latex -- Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Latex -- Table"
             }
           }
         ],
@@ -231,8 +231,10 @@
   },
   "active": "0fa281de65655be2",
   "lastOpenFiles": [
+    "assets/Latex -- Table/file-20260207073422163.png",
+    "assets/Latex -- Table",
     "Interpolation -- Lagrange basis polynomials.md",
-    "Untitled.md",
+    "Latex -- Table.md",
     "PyTorch.md",
     "Transform -- Laplace Convolution.md",
     "assets/Transform -- Laplace Convolution/file-20260204163943774.png",
@@ -269,13 +271,11 @@
     "Matrix -- Vandermonde matrix.md",
     "Matrix -- Moore-Penrose Psudoinverse.md",
     "Matrix -- Jordan Canonical Form.md",
-    "Matrix -- Derivative of matrix.md",
     "assets/Matrix -- Sturm Liouville equation/file-20260202205953058.png",
     "assets/Matrix -- Sturm Liouville equation",
     "assets/Matrix -- Vandermonde matrix",
     "assets/Sklearn_workflow",
     "assets/__temp__Sklearn_workflow",
-    "assets/Regression -- Singular Value Decomposition with An Example",
-    "assets/Sklearn--Relationship between Different Modules"
+    "assets/Regression -- Singular Value Decomposition with An Example"
   ]
 }
