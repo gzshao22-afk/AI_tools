@@ -42,3 +42,6 @@ $c$ & 105.5518& 232.1160& -94.7351&& 100.2497& 141.2778& -259.7326&& 52.5745& 10
 \end{table*}
 \end{document}
 ```
+
+Reference:
+https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf
