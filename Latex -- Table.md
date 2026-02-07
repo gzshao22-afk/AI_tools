@@ -1,4 +1,7 @@
 #### Using the $booktabs$ package:
++ no vlines
++ can add \multirow package to combine rows
++ each line must be defined explicitly
 ![](./assets/Latex%20--%20Table/file-20260207073422163.png)
 
 ```latex
@@ -45,6 +48,9 @@ $c$ & 105.5518& 232.1160& -94.7351&& 100.2497& 141.2778& -259.7326&& 52.5745& 10
 
 
 #### Using the $tabularray$ package:
++ with an emphasis on vertical lines
++ merged cells are more intuitive
++ vlines and hlines are managed automatically
 ![200](./assets/Latex%20--%20Table/file-20260207083642079.png)
 
 ```latex
@@ -71,3 +77,4 @@ A2 & B2 & C2 & D2 \\
 
 Reference:
 https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf
+https://www.latex-tables.com/ressources/tabularray.html
