@@ -1,4 +1,4 @@
-
+#### Using the $booktabs$ package:
 ![](./assets/Latex%20--%20Table/file-20260207073422163.png)
 
 ```latex
@@ -40,6 +40,32 @@ $c$ & 105.5518& 232.1160& -94.7351&& 100.2497& 141.2778& -259.7326&& 52.5745& 10
 \end{tabular}
 }%%%%%%%% end resizing the table
 \end{table*}
+\end{document}
+```
+
+
+#### Using the $tabularray$ package:
+![200](./assets/Latex%20--%20Table/file-20260207083642079.png)
+
+```latex
+\documentclass{book}
+\usepackage{tabularray}
+
+\begin{document}
+
+\begin{tblr}{
+	vline{1,5} = {3pt},
+	hlines = {},
+	cell{1}{1} = {c = 4}{halign = c},
+	cell{2}{1} = {r = 3}{valign = m},
+	cell{3}{3} = {c = 2, r = 2}{c,m}
+}
+A1 &    &    &    \\
+A2 & B2 & C2 & D2 \\
+   & B3 & C3 &    \\
+   & B4 &    &   
+\end{tblr}
+
 \end{document}
 ```
 
