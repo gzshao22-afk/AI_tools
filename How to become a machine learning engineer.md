@@ -67,6 +67,6 @@ Andrew Ng's course is heavy on theory but light on production skills. You'll wan
 
 **Deepen your knowledge:**
 
-- Pick either computer vision, NLP, or time series as a specialization to start
-- Learn PyTorch or TensorFlow properly (not just following tutorials, but understanding what's happening)
-- Study how companies actually use ML in production - read engineering blogs from places like Netflix, Spotify, or Airbnb
+- **Pick either computer vision, NLP, or time series as a specialization to start
+- **Learn PyTorch or TensorFlow properly (not just following tutorials, but understanding what's happening)
+- **Study how companies actually use ML in production - read engineering blogs from places like Netflix, Spotify, or Airbnb
