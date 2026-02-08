@@ -11,10 +11,14 @@
             "id": "d3ad4ed50cc0f051",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "How to become a machine learning engineer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How to become a machine learning engineer"
             }
           }
         ]
@@ -194,6 +198,7 @@
   },
   "active": "d3ad4ed50cc0f051",
   "lastOpenFiles": [
+    "How to become a machine learning engineer.md",
     "New folder",
     "Untitled.base",
     "assets/Sklearn--Relationship between Different Modules/file-20260129182349922.png",
@@ -238,7 +243,6 @@
     "Matrix -- Moore-Penrose Psudoinverse.md",
     "assets/Matrix -- Sturm Liouville equation",
     "assets/Matrix -- Vandermonde matrix",
-    "assets/Sklearn_workflow",
-    "assets/__temp__Sklearn_workflow"
+    "assets/Sklearn_workflow"
   ]
 }
