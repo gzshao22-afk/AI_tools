@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Kaggle -- Bag of Words Meets Bags of Popcorn"
             }
-          },
-          {
-            "id": "09ff3c83254529a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,10 +211,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "09ff3c83254529a5",
+  "active": "5eb770df441d070c",
   "lastOpenFiles": [
-    "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
     "Untitled.md",
+    "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
     "How to become a machine learning engineer.md",
     "New folder",
     "Untitled.base",
