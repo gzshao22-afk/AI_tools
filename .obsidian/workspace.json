@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "How to become a machine learning engineer"
             }
+          },
+          {
+            "id": "5eb770df441d070c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaggle -- Bag of Words Meets Bags of Popcorn"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,9 +211,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d3ad4ed50cc0f051",
+  "active": "5eb770df441d070c",
   "lastOpenFiles": [
     "How to become a machine learning engineer.md",
+    "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
     "New folder",
     "Untitled.base",
     "assets/Sklearn--Relationship between Different Modules/file-20260129182349922.png",
@@ -240,7 +256,6 @@
     "Matrix -- Gaussian elimination.md",
     "assets/Matrix -- Gaussian elimination",
     "Matrix -- Vandermonde matrix.md",
-    "Matrix -- Moore-Penrose Psudoinverse.md",
     "assets/Matrix -- Sturm Liouville equation",
     "assets/Matrix -- Vandermonde matrix",
     "assets/Sklearn_workflow"
