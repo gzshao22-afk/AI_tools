@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Kaggle -- Bag of Words Meets Bags of Popcorn"
             }
+          },
+          {
+            "id": "09ff3c83254529a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,10 +225,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5eb770df441d070c",
+  "active": "09ff3c83254529a5",
   "lastOpenFiles": [
-    "How to become a machine learning engineer.md",
     "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
+    "Untitled.md",
+    "How to become a machine learning engineer.md",
     "New folder",
     "Untitled.base",
     "assets/Sklearn--Relationship between Different Modules/file-20260129182349922.png",
@@ -255,7 +270,6 @@
     "Regression -- Bias-variance tradeoff.md",
     "Matrix -- Gaussian elimination.md",
     "assets/Matrix -- Gaussian elimination",
-    "Matrix -- Vandermonde matrix.md",
     "assets/Matrix -- Sturm Liouville equation",
     "assets/Matrix -- Vandermonde matrix",
     "assets/Sklearn_workflow"
