@@ -198,6 +198,8 @@
   },
   "active": "717aeaf9b49343ef",
   "lastOpenFiles": [
+    "assets/Latex -- pgfplots/file-20260212114045313.png",
+    "assets/Latex -- pgfplots/file-20260212114016796.png",
     "assets/Latex -- pgfplots",
     "assets/Latex -- gpfplots",
     "assets/Latex -- pgfplots/file-20260212113624473.png",
@@ -229,7 +231,6 @@
     "assets/Transform -- Laplace Transform and Application/file-20260203154305155.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154225790.png",
-    "assets/Transform -- Laplace Transform and Application/file-20260203154114874.png",
     "assets/Transform -- Laplace Transform and Application",
     "Regression -- Gaussian Process.md",
     "LLM course.md",
@@ -242,7 +243,6 @@
     "Regression -- Partial Least Square.md",
     "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
     "Regression -- Bias-variance tradeoff from StackExchange.md",
-    "assets/Matrix -- Gaussian elimination",
-    "assets/Matrix -- Sturm Liouville equation"
+    "assets/Matrix -- Gaussian elimination"
   ]
 }
