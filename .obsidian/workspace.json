@@ -11,10 +11,14 @@
             "id": "717aeaf9b49343ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Latex -- pgfplots.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Latex -- pgfplots"
             }
           }
         ]
@@ -194,6 +198,11 @@
   },
   "active": "717aeaf9b49343ef",
   "lastOpenFiles": [
+    "assets/Latex -- pgfplots",
+    "assets/Latex -- gpfplots",
+    "assets/Latex -- pgfplots/file-20260212113624473.png",
+    "assets/Latex -- gpfplot",
+    "Latex -- pgfplots.md",
     "Signal Processing -- Hanning Window.md",
     "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
     "How to become a machine learning engineer.md",
@@ -221,7 +230,6 @@
     "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154225790.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154114874.png",
-    "assets/Transform -- Laplace Transform and Application/file-20260203154043063.png",
     "assets/Transform -- Laplace Transform and Application",
     "Regression -- Gaussian Process.md",
     "LLM course.md",
@@ -234,11 +242,7 @@
     "Regression -- Partial Least Square.md",
     "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
     "Regression -- Bias-variance tradeoff from StackExchange.md",
-    "Regression -- Bias-variance tradeoff.md",
-    "Matrix -- Gaussian elimination.md",
     "assets/Matrix -- Gaussian elimination",
-    "assets/Matrix -- Sturm Liouville equation",
-    "assets/Matrix -- Vandermonde matrix",
-    "assets/Sklearn_workflow"
+    "assets/Matrix -- Sturm Liouville equation"
   ]
 }
