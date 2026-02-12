@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4c4cd84c7b6d4369",
+        "id": "376a38ab20dd8a0c",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ad4ed50cc0f051",
+            "id": "717aeaf9b49343ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to become a machine learning engineer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "How to become a machine learning engineer"
-            }
-          },
-          {
-            "id": "5eb770df441d070c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kaggle -- Bag of Words Meets Bags of Popcorn"
-            }
-          },
-          {
-            "id": "c7ddce29da38c38e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signal Processing -- Hanning Window.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Signal Processing -- Hanning Window"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +192,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c7ddce29da38c38e",
+  "active": "717aeaf9b49343ef",
   "lastOpenFiles": [
-    "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
     "Signal Processing -- Hanning Window.md",
+    "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
     "How to become a machine learning engineer.md",
     "New folder",
     "Untitled.base",
