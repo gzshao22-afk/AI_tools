@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex -- pgfplots.md",
+                "file": "Latex -- Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex -- pgfplots"
+              "title": "Latex -- Table"
             }
           }
         ]
@@ -198,20 +198,20 @@
   },
   "active": "717aeaf9b49343ef",
   "lastOpenFiles": [
+    "Latex -- pgfplots.md",
+    "Latex -- Table.md",
     "assets/Latex -- pgfplots/file-20260212114045313.png",
     "assets/Latex -- pgfplots/file-20260212114016796.png",
     "assets/Latex -- pgfplots",
     "assets/Latex -- gpfplots",
     "assets/Latex -- pgfplots/file-20260212113624473.png",
     "assets/Latex -- gpfplot",
-    "Latex -- pgfplots.md",
     "Signal Processing -- Hanning Window.md",
     "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
     "How to become a machine learning engineer.md",
     "New folder",
     "Untitled.base",
     "assets/Sklearn--Relationship between Different Modules/file-20260129182349922.png",
-    "Latex -- Table.md",
     "2026-02-07.md",
     "Transform -- Laplace Convolution.md",
     "PyTorch.md",
@@ -230,7 +230,6 @@
     "Statistics.md",
     "assets/Transform -- Laplace Transform and Application/file-20260203154305155.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
-    "assets/Transform -- Laplace Transform and Application/file-20260203154225790.png",
     "assets/Transform -- Laplace Transform and Application",
     "Regression -- Gaussian Process.md",
     "LLM course.md",
