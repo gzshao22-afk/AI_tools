@@ -1,5 +1,6 @@
 #Gaussian_distribution #Poisson_distribution #Exponential_distribution #Lognormal_distribution #Exponential_modified_Gaussian_distribution #Lorentzian_distribution
 
+
 Summary of the Connections
 
 |Perspective|Question|Distribution|
@@ -73,3 +74,8 @@ $${r+k-1 \choose k}$$
 More formally:
 $${-r \choose k}=(-1)^k{r+k-1 \choose k}$$
 
+
+
+
+
+https://www.google.com/search?q=lognormal+distribution&sca_esv=d7358c9ad4b11281&rlz=1C1HKFL_enUS1197US1197&sxsrf=ANbL-n7kyUrAWzEbmNH4GJfkrE8s2EtVSw%3A1771079387461&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHATKK1pbO_OOOJtiQ_Hxe6g6q4p7U3zzaxAaoF0ALYcn9XREC2n2Qr8tseohdeRLgp9NzjuGQXNwpFS2ILDxM2Zj2uS_3Jb7RZ8IxzScrABHQbhiQ2A&aep=1&ntc=1&sa=X&sqi=2&ved=2ahUKEwjctIjumNmSAxWDDTQIHSpMBtAQ2J8OegQIBhAE&biw=1404&bih=674&dpr=1.37&mstk=AUtExfDDPxtKFdxFbBghJWrM3yCMsmM_pTAME7M5OiRk5xKSCA3MRF8OH4lAEgDWUd9Uf0TU_nL8jOwYSLt4BbOJ9lR1GWCoUtPhm4gmRb6HR5JksyosjAOhd6I0j5jHbqmByHsDrHPgf0_tCb8YiOZQDXO5OZTAbdB5Xf-N79jfgLvJ61IGF4p0ncUSosKlG72uG02ZajIQ_xh7Z3pX26sqTsZ-TpO-2ZFLgJJkr1ZOfEoOXC5AXTXaHTcTLzRUAeE3YtRRpVtagetRG_nT5CcEs3xuXbuKIx_L0d1lvJMrGfACVnObktjUFob9zQ6_j-NDeZETJBIZyJ8_MG9K4IkE_DALBqhnjUOxVA&csuir=1&mtid=4IaQaZzHJL6m0PEP44bV4Ak&atvm=2
