@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics -- Distribution.md",
+                "file": "Statistics -- Different Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistics -- Distribution"
+              "title": "Statistics -- Different Distributions"
             }
           }
         ]
@@ -200,7 +200,7 @@
   "lastOpenFiles": [
     "Transform -- Laplace Convolution.md",
     "Transform -- Hilbert Transform.md",
-    "Statistics -- Distribution.md",
+    "Statistics -- Different Distributions.md",
     "Matrix -- Jordan Canonical Form.md",
     "Matrix -- Gaussian elimination.md",
     "Matrix -- Derivative of matrix.md",
