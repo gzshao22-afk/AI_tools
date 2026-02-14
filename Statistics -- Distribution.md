@@ -28,7 +28,8 @@ Given a Poisson distribution for occurrences, the wait time between event is an 
 Poisson distribution is derived from binomial distribution
 $$P(X=k)=\begin{pmatrix}n \\ k\end{pmatrix}p^k(1-p)^{n-k}$$
 When Poisson was investigating legal probabilities such as wrongful convictions, he found as $n \rightarrow \infty, p \rightarrow 0$, calculation becomes extremely difficult. He observed that their product remains a constant, $\lambda=np$. Plugging this into the binomial equation
-$$P(X=k)=\\ \begin{pmatrix}n \\ k\end{pmatrix}p^k(1-p)^{n-k}
-=\\
-$$
+$$\begin{align}P(X=k) 
+& = {n \choose k}p^k(1-p)^{n-k} \\
+& = \frac{n!}{k!(n-k)!}\cdot \frac{\lambda^k}{n^k}\cdot \left(1-\frac{\lambda}{n}\right)^n \cdot \left( 1-\frac{\lambda}{n}\right)^{-k}
+\end{align}$$
 
