@@ -33,5 +33,13 @@ $$\begin{align}P(X=k)
 & = \frac{n!}{k!(n-k)!}\cdot \frac{\lambda^k}{n^k}\cdot \left(1-\frac{\lambda}{n}\right)^n \cdot \left( 1-\frac{\lambda}{n}\right)^{-k}
 \end{align}$$
 
-Simplication:
+**Step 1:**
 $$\frac{n!}{k!(n-k)!}\cdot \frac{\lambda^k}{n^k}$$
+becomes
+$$\frac{n!}{n^k(n-k)!}\cdot \frac{\lambda^k}{k!}=\frac{n\cdot(n-1)\cdot(n-2)\cdots(n-k+1)}{n^k}\cdot \frac{\lambda^k}{n^k}
+$$
+when n is very large, 
+$$\frac{n\cdot(n-1)\cdot(n-2)\cdots(n-k+1)}{n^k}$$
+becomes 1, it simplifies to:
+$$\frac{\lambda^k}{n^k}$$
+**Step 2:**
