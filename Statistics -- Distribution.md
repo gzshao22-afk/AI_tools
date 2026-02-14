@@ -42,6 +42,17 @@ when n is very large,
 $$\frac{n\cdot(n-1)\cdot(n-2)\cdots(n-k+1)}{n^k}$$
 becomes 1, it simplifies to:
 $$\frac{\lambda^k}{n^k}$$
+
+
 **Step 2:**
 $$\left(1-\frac{\lambda}{n}\right)^n$$
+By definition, $\lim_{n \to \infty}(1+\frac{x}{n})^n=e^x$. Therefore:
+$$\left(1-\frac{\lambda}{n}\right)^n \rightarrow e^{-\lambda}$$
+
+
+**Step 3:**
+$$\left( 1-\frac{\lambda}{n}\right)^{-k}$$
+as n approaches infinity, the values becomes 0, thus Poisson distribution expression:
+$$P(X=k)=\frac{\lambda^k*e^{-\lambda}}{k!}$$
+
 
