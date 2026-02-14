@@ -16,6 +16,14 @@ $$P(X=k)=\frac{\lambda^k*e^{-\lambda}}{k!}$$
 >+ $e$: Euler's number (~2.718)
 >+ $k!$: The factorial of $k$
 
+If we know the rate of occurrences, the probability of 0 occurrence happening in the upcoming time period of $t$ is:
+$$P(X=0)=\frac{\lambda_t^0e^{-\lambda_t}}{0!}=e^{-\lambda_t}$$
+where $\lambda_t$ is the adjusted occurrence rate in for the new time frame.
+
+Poisson distribution:
+$$P(X=k)=\frac{\lambda^k*e^{-\lambda}}{k!}$$
+>[!Note]
+Given a Poisson distribution for occurrences, the wait time between event is an exponential distribution.
 
 
 
