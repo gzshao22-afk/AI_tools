@@ -70,3 +70,6 @@ of which:
 $$(1-q)^{-r}=1+rq+\frac{r(r+1)}{2!}q^2+\frac{r(r+1)(r+2)}{3!}q^3+\cdots$$
 Each coefficient can be written as:
 $${r+k-1 \choose k}$$
+More formally:
+$${-r \choose k}=(-1)^k{r+k-1 \choose k}$$
+
