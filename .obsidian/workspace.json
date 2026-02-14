@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics -- Distribution.md",
+                "file": "Matrix -- Derivative of matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistics -- Distribution"
+              "title": "Matrix -- Derivative of matrix"
             }
           }
         ]
@@ -198,6 +198,22 @@
   },
   "active": "33f0b92698a4a157",
   "lastOpenFiles": [
+    "Matrix -- Gaussian elimination.md",
+    "Matrix -- Jordan Canonical Form.md",
+    "Matrix -- Moore-Penrose Psudoinverse.md",
+    "Matrix -- Sturm Liouville equation.md",
+    "Regression -- Bias-variance tradeoff.md",
+    "Regression -- Bias-variance tradeoff from StackExchange.md",
+    "Regression -- Gaussian Process.md",
+    "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
+    "Regression -- Partial Least Square.md",
+    "Regression -- Randomized_SVD.md",
+    "Regression -- Singular Value Decomposition with An Example.md",
+    "Regression -- xgboost.md",
+    "Statistics -- Distribution.md",
+    "Transform -- Laplace Convolution.md",
+    "Transform -- Laplace Transform and Application.md",
+    "Transform -- Hilbert Transform.md",
     "Sklearn--Relationship between Different Modules.md",
     "Gemini notebook -- Voss algorithm for generating pink noise.md",
     "Latex -- Table.md",
@@ -215,7 +231,6 @@
     "Untitled.base",
     "assets/Sklearn--Relationship between Different Modules/file-20260129182349922.png",
     "2026-02-07.md",
-    "Transform -- Laplace Convolution.md",
     "PyTorch.md",
     "Interpolation -- Lagrange basis polynomials.md",
     "assets/Latex -- Table/file-20260207083642079.png",
@@ -224,25 +239,10 @@
     "assets/Transform -- Laplace Convolution/file-20260204163943774.png",
     "assets/Transform -- Laplace Convolution/file-20260204163911776.png",
     "assets/Transform -- Laplace Convolution",
-    "Transform -- Laplace Transform and Application.md",
-    "Transform -- Hilbert Transform.md",
-    "Matrix -- Sturm Liouville equation.md",
-    "Sklearn_workflow.md",
-    "Statistics -- Distribution.md",
     "assets/Transform -- Laplace Transform and Application/file-20260203154305155.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
     "assets/Transform -- Laplace Transform and Application",
-    "Regression -- Gaussian Process.md",
-    "LLM course.md",
-    "Progress.md",
-    "Regression -- xgboost.md",
     "assets/Regression -- xgboost",
-    "Cheat sheet.md",
-    "Regression -- Singular Value Decomposition with An Example.md",
-    "Regression -- Randomized_SVD.md",
-    "Regression -- Partial Least Square.md",
-    "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
-    "Regression -- Bias-variance tradeoff from StackExchange.md",
     "assets/Matrix -- Gaussian elimination"
   ]
 }
