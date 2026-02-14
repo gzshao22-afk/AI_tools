@@ -56,3 +56,15 @@ as n approaches infinity, the values becomes 0, thus Poisson distribution expres
 $$P(X=k)=\frac{\lambda^k*e^{-\lambda}}{k!}$$
 
 
+
+### Negative Binomial Distribution
+When mean of Poisson distribution is smaller than its variance, e.g., bursts of events. Example: A tour bus arrives! Suddenly 50 people walk in at once, then nobody for two hours. The average is still 10 per hour.
+
+>[!Definition] The definition of the Negative Binomial is: "The probability of having exactly $k$ failures before the $r$-th success."
+1. The very last trial must be a success;
+2. In all previous trials, you must have exactly $r-1$ successes and $k$ failures.
+
+$$P(X=k)={k+r-1 \choose k} \times p^r \times (1-p)^k$$
+
+
+
