@@ -63,8 +63,7 @@ When mean of Poisson distribution is smaller than its variance, e.g., bursts of 
 >[!Definition] The definition of the Negative Binomial is: "The probability of having exactly $k$ failures before the $r$-th success."
 1. The very last trial must be a success;
 2. In all previous trials, you must have exactly $r-1$ successes and $k$ failures.
-
 $$P(X=k)={k+r-1 \choose k} \times p^r \times (1-p)^k$$
-
-
+Unlike the standard binomial of $(p+q)^n$, negative binomial is $p^r(1-q)^{-r}$, where p is success rate and q is failure rate, r is the number of successes.
+$$p^r(1-q)^{-r}=(1-q)^r(1-q)^{-r}=1$$
 
