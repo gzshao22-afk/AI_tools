@@ -33,3 +33,5 @@ $$\begin{align}P(X=k)
 & = \frac{n!}{k!(n-k)!}\cdot \frac{\lambda^k}{n^k}\cdot \left(1-\frac{\lambda}{n}\right)^n \cdot \left( 1-\frac{\lambda}{n}\right)^{-k}
 \end{align}$$
 
+Simplication:
+$$\frac{n!}{k!(n-k)!}\cdot \frac{\lambda^k}{n^k}$$
