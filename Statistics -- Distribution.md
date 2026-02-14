@@ -66,4 +66,7 @@ When mean of Poisson distribution is smaller than its variance, e.g., bursts of 
 $$P(X=k)={k+r-1 \choose k} \times p^r \times (1-p)^k$$
 Unlike the standard binomial of $(p+q)^n$, negative binomial is $p^r(1-q)^{-r}$, where p is success rate and q is failure rate, r is the number of successes.
 $$p^r(1-q)^{-r}=(1-q)^r(1-q)^{-r}=1$$
-
+of which:
+$$(1-q)^{-r}=1+rq+\frac{r(r+1)}{2!}q^2+\frac{r(r+1)(r+2)}{3!}q^3+\cdots$$
+Each coefficient can be written as:
+$${r+k-1 \choose k}$$
