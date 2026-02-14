@@ -43,3 +43,5 @@ $$\frac{n\cdot(n-1)\cdot(n-2)\cdots(n-k+1)}{n^k}$$
 becomes 1, it simplifies to:
 $$\frac{\lambda^k}{n^k}$$
 **Step 2:**
+$$\left(1-\frac{\lambda}{n}\right)^n$$
+
