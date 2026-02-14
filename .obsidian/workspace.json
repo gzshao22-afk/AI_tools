@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini notebook -- Voss algorithm for generating pink noise.md",
+                "file": "Statistics -- Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gemini notebook -- Voss algorithm for generating pink noise"
+              "title": "Statistics -- Distribution"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "33f0b92698a4a157",
   "lastOpenFiles": [
-    "Latex -- Table.md",
+    "Sklearn--Relationship between Different Modules.md",
     "Gemini notebook -- Voss algorithm for generating pink noise.md",
+    "Latex -- Table.md",
     "Latex -- pgfplots.md",
     "assets/Latex -- pgfplots/file-20260212114045313.png",
     "assets/Latex -- pgfplots/file-20260212114016796.png",
@@ -226,9 +227,8 @@
     "Transform -- Laplace Transform and Application.md",
     "Transform -- Hilbert Transform.md",
     "Matrix -- Sturm Liouville equation.md",
-    "Sklearn--Relationship between Different Modules.md",
     "Sklearn_workflow.md",
-    "Statistics.md",
+    "Statistics -- Distribution.md",
     "assets/Transform -- Laplace Transform and Application/file-20260203154305155.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
     "assets/Transform -- Laplace Transform and Application",
