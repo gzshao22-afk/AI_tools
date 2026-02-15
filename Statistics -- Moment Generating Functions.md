@@ -13,3 +13,4 @@ Imagine a coin flip where:
 $$M_X(t)=pe^t+q$$
 	 To find the mean:
 	 + Set A (Derivative): the derivative of $M_X(t)=pe^t+q$ is $pe^t$
+	 + 
