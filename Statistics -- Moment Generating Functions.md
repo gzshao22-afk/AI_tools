@@ -13,5 +13,12 @@ Imagine a coin flip where:
 $$M_X(t)=pe^t+q$$
 	 To find the mean:
 	 + Step A (Derivative): the derivative of $M_X(t)=pe^t+q$ is $pe^t$
-	 + Setp B (set $t=0$): $pe^0=p\cdot 1=p$
-	 + 
+	 + Step B (set $t=0$): $pe^0=p\cdot 1=p$
+
+
+#### How it MGF used to prove the Central Limit Theorem
+>[!The Central Limit Theorem] 
+>The sum of almost any random variables will eventually look like a Normal distribution, even if the individual variables are weird or skewed.
+
+1. Standardize the Variables:
+	 First transform random variables $X_i$ into standard units $Z_i$, so they all have a mean of 0 and variance of 1
