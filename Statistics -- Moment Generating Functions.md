@@ -5,4 +5,7 @@ When take the expectation of the whole string:
 $$M_X(t)=1+tE[X]+\frac{t^2}{2!}E[X^2]+\frac{t^3}{3!}E[X^3]+\cdots$$
 Example: The Bernouli Distribution (A coin flip)
 Imagine a coin flip where:
-+ $X=1$ ()
++ $X=1$ Heads with probability p
++ $X=0$ Tails with probability q (which is 1-p)
+1. Find the MGF
+	By definition of expection ($Value \times Probability$)
