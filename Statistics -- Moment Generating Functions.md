@@ -9,4 +9,6 @@ Imagine a coin flip where:
 + $X=0$ Tails with probability q (which is 1-p)
 1. Find the MGF
 	By definition of expection ($Value \times Probability$):
-	 $$M_X(t)=(e^{t\cdot 1}\cdot p)+(e)$$
+	 $$M_X(t)=(e^{t\cdot 1}\cdot p)+(e^{t\cdot 0}\cdot q)$$
+$$M_X(t)=pe^t+q$$
+	 To find the mean, 
