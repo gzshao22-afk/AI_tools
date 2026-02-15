@@ -12,5 +12,6 @@ Imagine a coin flip where:
 	 $$M_X(t)=(e^{t\cdot 1}\cdot p)+(e^{t\cdot 0}\cdot q)$$
 $$M_X(t)=pe^t+q$$
 	 To find the mean:
-	 + Set A (Derivative): the derivative of $M_X(t)=pe^t+q$ is $pe^t$
+	 + Step A (Derivative): the derivative of $M_X(t)=pe^t+q$ is $pe^t$
+	 + Setp B (set $t=0$): $pe^0=p\cdot 1=p$
 	 + 
