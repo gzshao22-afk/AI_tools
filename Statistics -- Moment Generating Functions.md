@@ -22,3 +22,14 @@ $$M_X(t)=pe^t+q$$
 
 1. Standardize the Variables:
 	 First transform random variables $X_i$ into standard units $Z_i$, so they all have a mean of 0 and variance of 1
+	 $$Z_i=\frac{X_i-\mu}{\sigma}$$
+2. Multiplying of MGF
+	The MGF of a sum of independent variables is the product of their individual MGFs. If we have n identical variables, we get:
+	$$M_{Sum}(t)=[M_Z(t)]^n$$
+	Because we are looking at the average:
+	$$M_{Average}(t)=\left[M_Z\left(\frac{t}{\sqrt{n}}\right)\right]^n$$
+	Taylor expansion of MGF:
+	$$M_Z(s)=1+(Mean)s+\frac{Variance}{2}s^2+\cdots$$
+	With Mean=0 and Variance=1, it simplifies to:
+	$$M_Z\left(\frac{t}{\sqrt{n}}\right) \approx 1+ 0+\frac12\left(\frac{t}{\sqrt{n}}\right)^2 = 1+\frac{t^2}{2n}$$
+3. As $n \rightarrow \infty$,  $\left(1+\frac{t^2}{2n}\right)^n$ becomes $e^{t^2/2}$
