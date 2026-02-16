@@ -1,1 +1,3 @@
-$$Binomial(n,p) \approx \mathbh N(np,np(1-p))$$
+ $$Binomial(n,p) \approx \mathcal N(np,np(1-p))$$
+ 
+ 

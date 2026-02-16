@@ -213,8 +213,9 @@
   },
   "active": "808b654334313792",
   "lastOpenFiles": [
-    "Statistics -- Moment Generating Functions.md",
+    "Matrix -- Derivative of matrix.md",
     "Statistics -- Binomial distribution and Gaussian distribution.md",
+    "Statistics -- Moment Generating Functions.md",
     "Statistics -- Different Distributions.md",
     "Sklearn--Relationship between Different Modules.md",
     "How to become a machine learning engineer.md",
@@ -222,7 +223,6 @@
     "Transform -- Hilbert Transform.md",
     "Matrix -- Jordan Canonical Form.md",
     "Matrix -- Gaussian elimination.md",
-    "Matrix -- Derivative of matrix.md",
     "Matrix -- Cayley-Hamilton Theorem.md",
     "Matrix -- Moore-Penrose Psudoinverse.md",
     "Matrix -- Sturm Liouville equation.md",
