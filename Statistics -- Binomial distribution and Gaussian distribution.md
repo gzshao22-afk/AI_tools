@@ -1,0 +1,1 @@
+$$Binomial(n,p) \approx \mathbh N(np,np(1-p))$$
