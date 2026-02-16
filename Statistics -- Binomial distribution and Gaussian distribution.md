@@ -36,3 +36,5 @@ $$\sqrt{\frac{1}{2\pi npq}}e^{-\frac{x^2}{2npq}}$$
 $npq$ is the variance, the above term becomes
 $$\sqrt{\frac{1}{2\pi \sigma^2}}e^{-\frac{x^2}{2\sigma^2}}$$
 
+
+
