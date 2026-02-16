@@ -18,4 +18,20 @@ Logarithmic Transformation: take the natural log of this expression:
 1. The first term, as n becomes large, $k=np$
 $$ln\left(\sqrt{\frac{n}{2\pi k(n-k)}}\right)=ln\left(\sqrt{\frac{n}{2\pi npq}}\right)$$
 2. The second term, 
-$$ln()$$
+$$-k\cdot ln\left(\frac{np+x}{np}\right)=-k\cdot ln\left(1+\frac{x}{np}\right)$$
+	as $ln\epsilon \approx\epsilon -\frac{\epsilon^2}{2}$,
+	it becomes:
+	$$-(np+x)\left( \frac{x}{np} - \frac{x^2}{2n^2p^2}\right)=-x+\frac{x^2}{2np}-\frac{x^2}{np}+\frac{x^3}{2n^2p^2}$$
+	The last term can be ignored as $n \rightarrow \infty$, it becomes:
+	$$-x-\frac{x^2}{2np}$$
+3. The third term,
+$$-(n-k)\cdot ln\left(\frac{n-k}{nq}\right)=-(nq-x)\cdot ln\left(1-\frac{x}{nq}\right)$$
+	This simplifies to:
+	$$-(nq-x)\left(-\frac{x}{nq}-\frac{x^2}{2n^2q^2}\right)=x+\frac{x^2}{2nq}-\frac{x^2}{nq}-\frac{x^3}{2n^2q^2} \approx x-\frac{x^2}{2nq}$$
+Putting all 3 terms together:
+$$ln\left(\sqrt{\frac{1}{2\pi npq}}\right) -\frac{x^2}{2n}\left(\frac1p+\frac1q\right)=ln\left(\sqrt{\frac{1}{2\pi npq}}\right)-\frac{x^2}{2n}\frac{1}{pq}$$
+
+Putting back the exponential:
+$$\sqrt{\frac{1}{2\pi npq}}e^{-\frac{x^2}{2npq}}$$
+$npq$ is the variance, the above term becomes
+$$\sqrt{\frac{1}{2\pi \sigma^2}}e^{-\frac{x^2}{2\sigma^2}}$$
