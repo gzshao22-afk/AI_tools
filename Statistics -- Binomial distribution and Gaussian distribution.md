@@ -13,9 +13,8 @@ P(X=k) & \approx \sqrt{\frac{n}{2\pi k(n-k)}} \frac{n^n}{k^k(n-k)^{n-k}}p^kq^{n-
 Let the mean be $\mu=np$, the deviation from the mean as $x=k-np$. Therefore:
 + $k=np+x$
 + $n-k=nq-x$
-$$\begin{align}
-P(X=k) & \approx \sqrt{\frac{n}{2\pi k(n-k)}}(\frac{np}{k})^k(\frac{nq}{n-k})^{n-k}
 
-\end{align}$$
+Logarithmic Transformation: take the natural log of this expression:
+$$ln(P) \approx $$
 
  
