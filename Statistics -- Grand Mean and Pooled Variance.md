@@ -3,3 +3,5 @@ When you have multiple means (e.g., averages from different experimetns or batch
 $$Weighted\; Mean =\frac{(n_1\cdot \bar{x}_1)+(n_2\cdot \bar{x}_2)+\cdots+(n_k\cdot \bar{x}_k)}{n_1+n_2+\cdots+n_k}$$
 Pooled variance:
 $$s_p^2=\frac{\sum(n_i-1)s_i^2}{\sum(n_i-1)}$$
+Confidence interval:
+$$Esimate=Grand \; mean \pm \left(t_{\alpha/2,df} \times \frac{s_p}{\sqrt{N}}\right)$$
