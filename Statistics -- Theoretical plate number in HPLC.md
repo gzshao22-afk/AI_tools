@@ -46,7 +46,7 @@ $$
 
 = n \cdot \frac{p}{q}$$
 
-In HPLC, \(n\) is very large, and the binomial distribution **converges to a Gaussian**. 
+In HPLC, \(n\) is very large, p and q are both distant from 0 and 1 for molecules with significant interactions with the stationary an mobile phases, and the binomial distribution **converges to a Gaussian**. 
 
 In this Gaussian limit, the plate number is defined as:
 $$
