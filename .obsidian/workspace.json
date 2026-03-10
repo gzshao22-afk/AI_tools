@@ -4,109 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4a3f76d9133a2879",
+        "id": "24384bd1f20d9ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "612a692fc27e8cfb",
+            "id": "c99954cd7f9c3ef3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Statistics -- Grand Mean and Pooled Variance.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.12.4"
               },
-              "icon": "lucide-file",
-              "title": "Statistics -- Grand Mean and Pooled Variance"
-            }
-          },
-          {
-            "id": "9642807005dbe867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics -- t Distribution and chi squared Distribution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Statistics -- t Distribution and chi squared Distribution"
-            }
-          },
-          {
-            "id": "09bae16b5fd92f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transform -- Laplace Transform and Application.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transform -- Laplace Transform and Application"
-            }
-          },
-          {
-            "id": "d44d83807db3da7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics -- Theoretical plate number in HPLC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Statistics -- Theoretical plate number in HPLC"
-            }
-          },
-          {
-            "id": "767c43d598e35fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics -- Shapiro-Wilk test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Statistics -- Shapiro-Wilk test"
-            }
-          },
-          {
-            "id": "d0d7fc9a595a35e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression -- Generalized Least Squares.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regression -- Generalized Least Squares"
-            }
-          },
-          {
-            "id": "0762a4a7d508d18b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Loading and State Machine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynamic Loading and State Machine"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,16 +194,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0762a4a7d508d18b",
+  "active": "c99954cd7f9c3ef3",
   "lastOpenFiles": [
-    "Regression -- Generalized Least Squares.md",
     "Dynamic Loading and State Machine.md",
-    "Statistics -- F, R, chi.md",
+    "Regression -- Generalized Least Squares.md",
     "Statistics -- Shapiro-Wilk test.md",
     "Statistics -- Theoretical plate number in HPLC.md",
     "Transform -- Laplace Transform and Application.md",
     "Statistics -- t Distribution and chi squared Distribution.md",
     "Statistics -- Grand Mean and Pooled Variance.md",
+    "Statistics -- F, R, chi.md",
     "Statistics -- Binomial distribution and Gaussian distribution.md",
     "Statistics -- Moment Generating Functions.md",
     "Transform -- Laplace Convolution.md",
