@@ -18,8 +18,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.4"
             }
+          },
+          {
+            "id": "02f3bbdd9c5cb05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Word2Vec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Word2Vec"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +209,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c99954cd7f9c3ef3",
+  "active": "02f3bbdd9c5cb05a",
   "lastOpenFiles": [
+    "Word2Vec.md",
     "Dynamic Loading and State Machine.md",
     "Regression -- Generalized Least Squares.md",
     "Statistics -- Shapiro-Wilk test.md",
@@ -221,7 +237,6 @@
     "Regression -- Bias-variance tradeoff from StackExchange.md",
     "Regression -- Bias-variance tradeoff.md",
     "PyTorch.md",
-    "Progress.md",
     "assets/Latex -- pgfplots/file-20260212114045313.png",
     "assets/Latex -- pgfplots/file-20260212114016796.png",
     "assets/Latex -- pgfplots",
