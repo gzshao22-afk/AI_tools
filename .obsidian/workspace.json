@@ -32,9 +32,21 @@
               "icon": "lucide-file",
               "title": "Word2Vec"
             }
+          },
+          {
+            "id": "40409d4bf4a2534a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +221,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "02f3bbdd9c5cb05a",
+  "active": "40409d4bf4a2534a",
   "lastOpenFiles": [
     "Word2Vec.md",
     "Dynamic Loading and State Machine.md",
