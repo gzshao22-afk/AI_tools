@@ -225,6 +225,7 @@
   },
   "active": "40409d4bf4a2534a",
   "lastOpenFiles": [
+    "FreeCAD/circle.py",
     "Untitled.md",
     "Untitled 1.md",
     "Cheat sheet.md",
@@ -251,7 +252,6 @@
     "Regression -- Randomized_SVD.md",
     "Regression -- Partial Least Square.md",
     "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
-    "Regression -- Gaussian Process.md",
     "assets/Latex -- pgfplots/file-20260212114045313.png",
     "assets/Latex -- pgfplots/file-20260212114016796.png",
     "assets/Latex -- pgfplots",
