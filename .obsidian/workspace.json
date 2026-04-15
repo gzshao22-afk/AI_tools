@@ -223,8 +223,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "40409d4bf4a2534a",
+  "active": "a5aa04643f209143",
   "lastOpenFiles": [
+    "ImageJ/GS_ImageJ_confluency with box drawing step.ijm",
+    "ImageJ/GS_count all boxes.ijm",
+    "ImageJ/GS_Confluency_clean the image.ijm",
+    "ImageJ",
     "FreeCAD/circle.py",
     "Untitled.md",
     "Untitled 1.md",
@@ -263,13 +267,9 @@
     "assets/Sklearn--Relationship between Different Modules/file-20260129182349922.png",
     "assets/Latex -- Table/file-20260207083642079.png",
     "assets/Latex -- Table/file-20260207073422163.png",
-    "assets/Latex -- Table",
     "assets/Transform -- Laplace Convolution/file-20260204163943774.png",
     "assets/Transform -- Laplace Convolution/file-20260204163911776.png",
-    "assets/Transform -- Laplace Convolution",
     "assets/Transform -- Laplace Transform and Application/file-20260203154305155.png",
-    "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
-    "assets/Transform -- Laplace Transform and Application",
-    "assets/Regression -- xgboost"
+    "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png"
   ]
 }
