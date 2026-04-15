@@ -37,12 +37,14 @@
             "id": "40409d4bf4a2534a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Cheat sheet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Cheat sheet"
             }
           }
         ],
@@ -223,6 +225,10 @@
   },
   "active": "40409d4bf4a2534a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Cheat sheet.md",
+    "FreeCAD",
     "Word2Vec.md",
     "Dynamic Loading and State Machine.md",
     "Regression -- Generalized Least Squares.md",
@@ -246,9 +252,6 @@
     "Regression -- Partial Least Square.md",
     "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
     "Regression -- Gaussian Process.md",
-    "Regression -- Bias-variance tradeoff from StackExchange.md",
-    "Regression -- Bias-variance tradeoff.md",
-    "PyTorch.md",
     "assets/Latex -- pgfplots/file-20260212114045313.png",
     "assets/Latex -- pgfplots/file-20260212114016796.png",
     "assets/Latex -- pgfplots",
@@ -267,7 +270,6 @@
     "assets/Transform -- Laplace Transform and Application/file-20260203154305155.png",
     "assets/Transform -- Laplace Transform and Application/file-20260203154247206.png",
     "assets/Transform -- Laplace Transform and Application",
-    "assets/Regression -- xgboost",
-    "assets/Matrix -- Gaussian elimination"
+    "assets/Regression -- xgboost"
   ]
 }
