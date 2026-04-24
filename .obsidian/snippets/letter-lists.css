@@ -1,0 +1,5 @@
+/* Style nested ordered lists to use lowercase letters */
+.markdown-preview-view ol ol,
+.markdown-source-view.mod-cm6 .cm-content ol ol {
+    list-style-type: lower-alpha;
+}
