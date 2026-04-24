@@ -1,4 +1,4 @@
-# Refractive Index, Fresnel Equations, and Kramers–Kronig Analysis
+
 
 ---
 
