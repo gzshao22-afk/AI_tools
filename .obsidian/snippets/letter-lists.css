@@ -1,5 +1,9 @@
-/* Style nested ordered lists to use lowercase letters */
-.markdown-preview-view ol ol,
+/* Reading Mode: 2nd level nested list */
+.markdown-rendered ol ol {
+    list-style-type: lower-alpha !important;
+}
+
+/* Live Preview / Editor: 2nd level nested list */
 .markdown-source-view.mod-cm6 .cm-content ol ol {
-    list-style-type: lower-alpha;
+    list-style-type: lower-alpha !important;
 }
