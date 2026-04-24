@@ -13,3 +13,8 @@ copy(links.join('\n'));
 console.log("Copied " + links.length + " links to clipboard.");
 ```
 
+# Ask Claude or Chatgpt to summarize
+use the following template:
+1. copy link one by one
+2. customize with the following commands:
+	1. summarize the link into 
