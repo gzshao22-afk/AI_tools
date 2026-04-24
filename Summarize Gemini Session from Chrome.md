@@ -17,7 +17,7 @@ console.log("Copied " + links.length + " links to clipboard.");
 use the following template:
 1. copy link one by one
 2. customize with the following commands:
-	1. 
+	1. fddfds
 		1. adfsf
 	a. summarize the link into a markdown file by
 		<ol>explain the problem intuitively</ol>
