@@ -1,9 +1,21 @@
-/* Reading Mode: 2nd level nested list */
+/* 1. Fix for READING MODE */
+.markdown-rendered ol {
+    list-style-type: decimal !important; /* Level 1 */
+}
 .markdown-rendered ol ol {
+    list-style-type: lower-alpha !important; /* Level 2 */
+}
+.markdown-rendered ol ol ol {
+    list-style-type: lower-roman !important; /* Level 3 */
+}
+
+/* 2. Fix for LIVE PREVIEW / EDITOR */
+/* Level 2 Indentation in Editor */
+.markdown-source-view.mod-cm6 .HyperMD-list-line-2 {
     list-style-type: lower-alpha !important;
 }
 
-/* Live Preview / Editor: 2nd level nested list */
-.markdown-source-view.mod-cm6 .cm-content ol ol {
-    list-style-type: lower-alpha !important;
+/* Level 3 Indentation in Editor */
+.markdown-source-view.mod-cm6 .HyperMD-list-line-3 {
+    list-style-type: lower-roman !important;
 }
