@@ -6,6 +6,10 @@
 ![](./assets/Optics%20--%20Conoscope%20and%20Birefrigence/file-20260424153503496.png)
 https://www.photonics.com/Articles/Digital-Age-Sees-New-Demand-for-the-Venerable/a65986
 
+![](./assets/Optics%20--%20Conoscope%20and%20Birefrigence/file-20260424154119854.png)
+
+https://www2.tulane.edu/~sanelson/eens211/interference_of_light.htm
+
 ## 1. What Is a Conoscope?
 
 A **conoscope** is an optical instrument used to measure and visualize the **angular distribution of light** emerging from a material.
