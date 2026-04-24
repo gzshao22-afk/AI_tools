@@ -62,10 +62,10 @@ $$\tilde{r} = \sqrt{R}, e^{i\theta}$$
 
 we extract two independently measurable quantities:
 
-|Quantity|Symbol|Physical meaning|
-|---|---|---|
-|Reflectivity|$R =|\tilde{r}|
-|Phase shift|$\theta$|Phase change of the reflected electric field|
+| Quantity     | Symbol   | Physical meaning                             |
+| ------------ | -------- | -------------------------------------------- |
+| Reflectivity | $R =     | \tilde{r}                                    |
+| Phase shift  | $\theta$ | Phase change of the reflected electric field |
 
 ### 2.2 Inverting the Fresnel Equations
 
