@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI generated -- Refractive Index, Fresnel Equations, and Kramers–Kronig Analysis.md",
+                "file": "Laser Diffraction Particle Sizer -- Refractive Index, Fresnel Equations, and Kramers–Kronig Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI generated -- Refractive Index, Fresnel Equations, and Kramers–Kronig Analysis"
+              "title": "Laser Diffraction Particle Sizer -- Refractive Index, Fresnel Equations, and Kramers–Kronig Analysis"
             }
           }
         ],
@@ -213,11 +213,18 @@
   },
   "active": "bc2e61346e193784",
   "lastOpenFiles": [
-    "AI generated -- From Green’s Theorem to Cauchy’s Integral Theorem.md",
-    "AI generated -- Refractive Index, Fresnel Equations, and Kramers–Kronig Analysis.md",
-    "Word2Vec.md",
+    "Curve fitting -- ELISA.md",
     "Cheat sheet.md",
-    "AI generated -- ELISA.md",
+    "LLM course.md",
+    "Regression -- NIR with Partial Least Squares for Moisture Quantification.md",
+    "Regression -- Generalized Least Squares.md",
+    "Regression -- Gaussian Process.md",
+    "Regression -- Bias-variance tradeoff from StackExchange.md",
+    "Regression -- Bias-variance tradeoff.md",
+    "PyTorch.md",
+    "Laser Diffraction Particle Sizer -- Refractive Index, Fresnel Equations, and Kramers–Kronig Analysis.md",
+    "Laser Diffraction Particle Sizer -- From Green’s Theorem to Cauchy’s Integral Theorem.md",
+    "Word2Vec.md",
     "ImageJ/GS_ImageJ_confluency with box drawing step.ijm",
     "ImageJ/GS_count all boxes.ijm",
     "ImageJ/GS_Confluency_clean the image.ijm",
@@ -227,7 +234,6 @@
     "Untitled 1.md",
     "FreeCAD",
     "Dynamic Loading and State Machine.md",
-    "Regression -- Generalized Least Squares.md",
     "Statistics -- Shapiro-Wilk test.md",
     "Statistics -- Theoretical plate number in HPLC.md",
     "Transform -- Laplace Transform and Application.md",
@@ -239,12 +245,6 @@
     "Transform -- Laplace Convolution.md",
     "Transform -- Hilbert Transform.md",
     "Statistics -- Different Distributions.md",
-    "Sklearn--Relationship between Different Modules.md",
-    "Sklearn_workflow.md",
-    "Signal Processing -- Hanning Window.md",
-    "Regression -- xgboost.md",
-    "Regression -- Singular Value Decomposition with An Example.md",
-    "Regression -- Randomized_SVD.md",
     "assets/Latex -- pgfplots/file-20260212114045313.png",
     "assets/Latex -- pgfplots/file-20260212114016796.png",
     "assets/Latex -- pgfplots",
