@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian sequential monitoring.md",
+                "file": "Statistical analaysis for clinical trials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bayesian sequential monitoring"
+              "title": "Statistical analaysis for clinical trials"
             }
           }
         ],
@@ -283,15 +283,16 @@
   },
   "active": "9891eb64b8e4f390",
   "lastOpenFiles": [
-    "assets/Bayesian sequential monitoring/file-20260505141322223.png",
-    "assets/Bayesian sequential monitoring/file-20260505141301439.png",
-    "assets/Bayesian sequential monitoring/file-20260505141242526.png",
-    "assets/Bayesian sequential monitoring/file-20260505141209635.png",
-    "assets/Bayesian sequential monitoring/file-20260505141122099.png",
-    "assets/Bayesian sequential monitoring/file-20260505141058795.png",
+    "assets/Statistical analaysis for clinical trials",
+    "assets/Statistical analaysis for clinical trials/file-20260505141629786.png",
+    "assets/Statistical analaysis for clinical trials/file-20260505141629795.png",
+    "assets/Statistical analaysis for clinical trials/file-20260505141629814.png",
+    "assets/Statistical analaysis for clinical trials/file-20260505141629822.png",
+    "assets/Statistical analaysis for clinical trials/file-20260505141629829.png",
+    "assets/Statistical analaysis for clinical trials/file-20260505141629836.png",
     "assets/Bayesian sequential monitoring",
     "AWS Gene Analysis.md",
-    "Bayesian sequential monitoring.md",
+    "Statistical analaysis for clinical trials.md",
     "Setting up AWS.md",
     "Linux commands.md",
     "Cellular Signaling Pathways --A Comprehensive Guide.md",
@@ -326,7 +327,6 @@
     "FreeCAD/circle.py",
     "FreeCAD",
     "assets/Latex -- pgfplots/file-20260212114045313.png",
-    "assets/Latex -- pgfplots/file-20260212114016796.png",
     "assets/Latex -- pgfplots",
     "assets/Latex -- gpfplots"
   ]
