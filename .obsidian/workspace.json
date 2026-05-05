@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Linux commands"
             }
+          },
+          {
+            "id": "f9317fc02420e998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting up AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setting up AWS"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,10 +253,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa2248e301b6b07e",
+  "active": "f9317fc02420e998",
   "lastOpenFiles": [
-    "Cellular Signaling Pathways --A Comprehensive Guide.md",
     "Linux commands.md",
+    "Setting up AWS.md",
+    "Cellular Signaling Pathways --A Comprehensive Guide.md",
     "Optics -- Conoscope and Birefrigence.md",
     "assets/Optics -- Conoscope and Birefrigence/file-20260424154119854.png",
     "assets/Optics -- Conoscope and Birefrigence/file-20260424153503496.png",
@@ -270,7 +285,6 @@
     "IGBT --.md",
     "Gemini notebook -- Voss algorithm for generating pink noise.md",
     "Dynamic Loading and State Machine.md",
-    "Curve fitting -- ELISA.md",
     "ImageJ/GS_ImageJ_confluency with box drawing step.ijm",
     "ImageJ/GS_count all boxes.ijm",
     "ImageJ/GS_Confluency_clean the image.ijm",
