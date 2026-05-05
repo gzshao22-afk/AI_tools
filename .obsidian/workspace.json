@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting up AWS.md",
+                "file": "Gene search - Setting up AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting up AWS"
+              "title": "Gene search - Setting up AWS"
             }
           },
           {
@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistical analaysis for clinical trials.md",
+                "file": "AWS Gene Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistical analaysis for clinical trials"
+              "title": "AWS Gene Analysis"
+            }
+          },
+          {
+            "id": "0bab97c986875782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clinical trials - I, II, III.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clinical trials - I, II, III"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -281,19 +295,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9891eb64b8e4f390",
+  "active": "0bab97c986875782",
   "lastOpenFiles": [
-    "assets/Statistical analaysis for clinical trials",
-    "assets/Statistical analaysis for clinical trials/file-20260505141629786.png",
-    "assets/Statistical analaysis for clinical trials/file-20260505141629795.png",
-    "assets/Statistical analaysis for clinical trials/file-20260505141629814.png",
-    "assets/Statistical analaysis for clinical trials/file-20260505141629822.png",
-    "assets/Statistical analaysis for clinical trials/file-20260505141629829.png",
-    "assets/Statistical analaysis for clinical trials/file-20260505141629836.png",
-    "assets/Bayesian sequential monitoring",
     "AWS Gene Analysis.md",
-    "Statistical analaysis for clinical trials.md",
-    "Setting up AWS.md",
+    "Clinical trials - I, II, III.md",
+    "Gemini notebook -- Voss algorithm for generating pink noise.md",
+    "Gene search - Setting up AWS.md",
+    "Regression -- xgboost.md",
+    "Signal Processing -- Hanning Window.md",
+    "Clinical Trials - Statistical analaysis.md",
+    "Curve fitting -- ELISA.md",
+    "assets/Clinical Trials - Statistical analaysis",
+    "assets/Statistical analaysis for clinical trials",
+    "assets/Clinical Trials - Statistical analaysis/file-20260505141954336 1.png",
+    "assets/Clinical Trials - Statistical analaysis/file-20260505141954336.png",
+    "assets/Clinical Trials - Statistical analaysis/file-20260505141954335.png",
+    "assets/Clinical Trials - Statistical analaysis/file-20260505141954333.png",
+    "assets/Clinical Trials - Statistical analaysis/file-20260505141954332.png",
+    "assets/Clinical Trials - Statistical analaysis/file-20260505141954330.png",
+    "assets/Bayesian sequential monitoring",
     "Linux commands.md",
     "Cellular Signaling Pathways --A Comprehensive Guide.md",
     "Optics -- Conoscope and Birefrigence.md",
@@ -309,7 +329,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "Sklearn_workflow.md",
-    "Signal Processing -- Hanning Window.md",
     "Progress.md",
     "Matrix -- Gaussian elimination.md",
     "Matrix -- Derivative of matrix.md",
@@ -317,17 +336,12 @@
     "Manifold reduction.md",
     "LLM course.md",
     "Latex -- Table.md",
-    "Latex -- pgfplots.md",
-    "Kaggle -- Bag of Words Meets Bags of Popcorn.md",
-    "Interpolation -- Lagrange basis polynomials.md",
     "ImageJ/GS_ImageJ_confluency with box drawing step.ijm",
     "ImageJ/GS_count all boxes.ijm",
     "ImageJ/GS_Confluency_clean the image.ijm",
     "ImageJ",
     "FreeCAD/circle.py",
     "FreeCAD",
-    "assets/Latex -- pgfplots/file-20260212114045313.png",
-    "assets/Latex -- pgfplots",
-    "assets/Latex -- gpfplots"
+    "assets/Latex -- pgfplots/file-20260212114045313.png"
   ]
 }
