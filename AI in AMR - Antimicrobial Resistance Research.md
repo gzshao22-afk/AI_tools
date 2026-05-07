@@ -30,3 +30,26 @@ Computational modeling doesn't just predict _if_ resistance exists; it explains 
 |**UTI Treatment**|Logistic Regression / TabNet|Reduced the use of broad-spectrum antibiotics by identifying patients who only needed narrow-spectrum drugs.|
 |**Drug Discovery**|Graph Convolutional Networks|Screened vast chemical libraries to find molecules with potent antimicrobial properties, avoiding the "rediscovery" of old drugs.|
 |**Outbreak Tracking**|Sequence-based ML|The [EDS-HAT system](https://pmc.ncbi.nlm.nih.gov/articles/PMC11791014/) uses genomic data to identify transmission routes of "superbugs" within hospitals in real-time.|
+
+### ATLAS dataset
+The **ATLAS (Antimicrobial Testing Leadership and Surveillance)** dataset, established by **[Pfizer](https://www.pfizer.com/science/focus-areas/anti-infectives/antimicrobial-surveillance)**, is one of the world's largest open-access resources for antimicrobial resistance data. You can access it through two primary channels depending on your needs: [[1](https://wellcomeopenresearch.org/articles/9-274), [2](https://www.pfizer.com/news/press-release/press-release-detail/pfizer_unveils_atlas_an_interactive_user_friendly_website_that_provides_global_antibiotic_resistance_surveillance_data_across_60_countries)]
+
+**1. Interactive Visualization (For Quick Analysis)**
+
+If you want to explore the data without downloading raw files, Pfizer provides a user-friendly interactive platform. [[1](https://www.pfizer.com/science/focus-areas/anti-infectives/antimicrobial-surveillance)]
+
+- **Website:** [atlas-surveillance.com](https://atlas-surveillance.com/)
+- **What you can do:** Filter by pathogen, region, and antibiotic to generate real-time tables, maps, and figures.
+- **Access:** Registration is required for free "open access". [[1](https://www.amrindustryalliance.org/case-study/antimicrobial-testing-leadership-and-surveillance-atlas/), [2](https://atlas-surveillance.com/), [3](https://www.pfizer.com/news/press-release/press-release-detail/pfizer_unveils_atlas_an_interactive_user_friendly_website_that_provides_global_antibiotic_resistance_surveillance_data_across_60_countries), [4](https://globalhealthprogress.org/collaboration/pfizer-global-antimicrobial-surveillance-programs/)]
+
+**2. Raw Dataset for AI Research (For Machine Learning)**
+
+For computational modeling or large-scale data analysis, you must request the **de-identified raw data** through the **[Vivli AMR Register](https://amr.vivli.org/)**. [[1](https://wellcomeopenresearch.org/articles/9-273)]
+
+- **Platform:** Vivli AMR Register
+- **Direct Link:** Pfizer ATLAS Dataset on Vivli
+- **Request Process:**
+    1. Create an account on the Vivli platform.
+    2. Submit a research proposal summarizing your goals.
+    3. State how your research will improve patient outcomes or antibiotic stewardship.
+    4. Once approved, the data becomes available for download based on your specific selection criteria. [[1](https://amr.vivli.org/ourmember/pfizer/), [2](https://wellcomeopenresearch.org/articles/9-273), [3](https://www.nature.com/articles/s41598-025-14078-w)]
