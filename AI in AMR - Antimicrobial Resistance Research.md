@@ -53,3 +53,5 @@ For computational modeling or large-scale data analysis, you must request the **
     2. Submit a research proposal summarizing your goals.
     3. State how your research will improve patient outcomes or antibiotic stewardship.
     4. Once approved, the data becomes available for download based on your specific selection criteria. [[1](https://amr.vivli.org/ourmember/pfizer/), [2](https://wellcomeopenresearch.org/articles/9-273), [3](https://www.nature.com/articles/s41598-025-14078-w)]
+
+Highthroughput Screening of LNP-AMR, Comparing with ATLAS database
