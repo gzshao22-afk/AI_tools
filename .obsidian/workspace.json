@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "seq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -295,7 +296,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3b88d59ca6cad43c",
+  "active": "6bcd6a476fa31b92",
   "lastOpenFiles": [
     "LNP.md",
     "AI in AMR - Antimicrobial Resistance Research.md",
